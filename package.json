@@ -1,0 +1,54 @@
+{
+  "name": "jev-aplausometro",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Cole seu post e veja uma plateia de leitores reagir em tempo real, com as probabilidades calibradas do Jev",
+  "license": "MIT",
+  "author": "Rafael Camillo",
+  "type": "module",
+  "engines": {
+    "node": ">=20.9"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "test": "vitest run",
+    "coverage": "vitest run --coverage",
+    "deps": "depcruise src",
+    "check": "npm run format:check && npm run lint && npm run typecheck && npm run deps && npm run coverage",
+    "try": "tsx scripts/try-post.ts",
+    "e2e": "playwright test",
+    "sensitivity": "tsx scripts/sensitivity.ts",
+    "calibrate": "tsx scripts/calibration.ts"
+  },
+  "dependencies": {
+    "lucide-react": "^1.49.0",
+    "next": "^16.3.7",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.13.0",
+    "@eslint/js": "^10.0.1",
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^22.20.4",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitest/coverage-v8": "^4.1.11",
+    "dependency-cruiser": "^17.4.3",
+    "eslint": "^10.11.0",
+    "eslint-config-next": "^16.3.7",
+    "eslint-plugin-simple-import-sort": "^14.0.0",
+    "prettier": "^3.9.9",
+    "tsx": "^4.23.15",
+    "typescript": "~6.0.3",
+    "typescript-eslint": "^8.71.0",
+    "vitest": "^4.1.11"
+  }
+}

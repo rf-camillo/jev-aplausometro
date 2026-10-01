@@ -1,0 +1,1729 @@
+{
+  "label": "v2",
+  "date": "2026-10-01",
+  "questions": "d9dd18f5",
+  "snapshots": [
+    {
+      "id": "tecnico-com-numeros",
+      "applause": 75,
+      "personas": {
+        "recruiter": {
+          "applause": 0.8065,
+          "top": "comment",
+          "confidence": 0.34
+        },
+        "senior_dev": {
+          "applause": 0.716,
+          "top": "comment",
+          "confidence": 0.42
+        },
+        "junior_dev": {
+          "applause": 0.8770000000000001,
+          "top": "applaud",
+          "confidence": 0.48
+        },
+        "founder": {
+          "applause": 0.9025,
+          "top": "share",
+          "confidence": 0.43
+        },
+        "investor": {
+          "applause": 0.7145000000000001,
+          "top": "comment",
+          "confidence": 0.47
+        },
+        "hr_manager": {
+          "applause": 0.31899999999999995,
+          "top": "ignore",
+          "confidence": 0.65
+        },
+        "product_manager": {
+          "applause": 0.72,
+          "top": "comment",
+          "confidence": 0.65
+        },
+        "designer": {
+          "applause": 0.8210000000000001,
+          "top": "share",
+          "confidence": 0.19
+        },
+        "client": {
+          "applause": 0.8945,
+          "top": "share",
+          "confidence": 0.29
+        },
+        "uncle": {
+          "applause": 0.6775,
+          "top": "comment",
+          "confidence": 0.56
+        },
+        "mom": {
+          "applause": 0.9450000000000001,
+          "top": "applaud",
+          "confidence": 0.71
+        },
+        "coach": {
+          "applause": 0.6749999999999999,
+          "top": "applaud",
+          "confidence": 0.26
+        }
+      },
+      "metrics": {
+        "clarity": 0.9075,
+        "cliche": 0.1,
+        "authenticity": 0.7325,
+        "soundsLikeAi": 0.3,
+        "callToAction": 0.03
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Autêntico",
+        "cliche": "Original",
+        "soundsLikeAi": "Não",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.7400000000000001,
+      "latencyMs": 2056
+    },
+    {
+      "id": "tecnico-com-cliche",
+      "applause": 34,
+      "personas": {
+        "recruiter": {
+          "applause": 0.365,
+          "top": "eyeroll",
+          "confidence": 0.38
+        },
+        "senior_dev": {
+          "applause": 0.006,
+          "top": "eyeroll",
+          "confidence": 0.94
+        },
+        "junior_dev": {
+          "applause": 0.6849999999999999,
+          "top": "applaud",
+          "confidence": 0.46
+        },
+        "founder": {
+          "applause": 0.3605,
+          "top": "eyeroll",
+          "confidence": 0.42
+        },
+        "investor": {
+          "applause": 0.35450000000000004,
+          "top": "comment",
+          "confidence": 0.34
+        },
+        "hr_manager": {
+          "applause": 0.269,
+          "top": "eyeroll",
+          "confidence": 0.57
+        },
+        "product_manager": {
+          "applause": 0.45,
+          "top": "comment",
+          "confidence": 0.63
+        },
+        "designer": {
+          "applause": 0.10550000000000001,
+          "top": "eyeroll",
+          "confidence": 0.82
+        },
+        "client": {
+          "applause": 0.5,
+          "top": "eyeroll",
+          "confidence": 0.26
+        },
+        "uncle": {
+          "applause": 0.6599999999999999,
+          "top": "comment",
+          "confidence": 0.41
+        },
+        "mom": {
+          "applause": 0.8929999999999999,
+          "top": "applaud",
+          "confidence": 0.68
+        },
+        "coach": {
+          "applause": 0.654,
+          "top": "applaud",
+          "confidence": 0.32
+        }
+      },
+      "metrics": {
+        "clarity": 0.795,
+        "cliche": 0.51,
+        "authenticity": 0.37,
+        "soundsLikeAi": 0.56,
+        "callToAction": 0.03
+      },
+      "headlines": {
+        "clarity": "Claro",
+        "authenticity": "Pouco autêntico",
+        "cliche": "Algo clichê",
+        "soundsLikeAi": "Sim",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.7200000000000001,
+      "latencyMs": 295
+    },
+    {
+      "id": "demissao-gratidao",
+      "applause": 28,
+      "personas": {
+        "recruiter": {
+          "applause": 0.2145,
+          "top": "eyeroll",
+          "confidence": 0.59
+        },
+        "senior_dev": {
+          "applause": 0,
+          "top": "eyeroll",
+          "confidence": 0.94
+        },
+        "junior_dev": {
+          "applause": 0.7239999999999999,
+          "top": "applaud",
+          "confidence": 0.53
+        },
+        "founder": {
+          "applause": 0.0475,
+          "top": "eyeroll",
+          "confidence": 0.87
+        },
+        "investor": {
+          "applause": 0.022,
+          "top": "eyeroll",
+          "confidence": 0.87
+        },
+        "hr_manager": {
+          "applause": 0.827,
+          "top": "applaud",
+          "confidence": 0.64
+        },
+        "product_manager": {
+          "applause": 0.219,
+          "top": "eyeroll",
+          "confidence": 0.59
+        },
+        "designer": {
+          "applause": 0.0635,
+          "top": "eyeroll",
+          "confidence": 0.88
+        },
+        "client": {
+          "applause": 0.36111111111111116,
+          "top": "eyeroll",
+          "confidence": 0.48
+        },
+        "uncle": {
+          "applause": 0.754,
+          "top": "comment",
+          "confidence": 0.29
+        },
+        "mom": {
+          "applause": 0.8915,
+          "top": "applaud",
+          "confidence": 0.64
+        },
+        "coach": {
+          "applause": 0.6954999999999998,
+          "top": "applaud",
+          "confidence": 0.23
+        }
+      },
+      "metrics": {
+        "clarity": 0.8925,
+        "cliche": 0.925,
+        "authenticity": 0.1675,
+        "soundsLikeAi": 0.63,
+        "callToAction": 0.03
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Pouco autêntico",
+        "cliche": "Puro clichê",
+        "soundsLikeAi": "Sim",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.6900000000000001,
+      "latencyMs": 288
+    },
+    {
+      "id": "humblebrag",
+      "applause": 8,
+      "personas": {
+        "recruiter": {
+          "applause": 0.016,
+          "top": "eyeroll",
+          "confidence": 0.9
+        },
+        "senior_dev": {
+          "applause": 0,
+          "top": "eyeroll",
+          "confidence": 0.92
+        },
+        "junior_dev": {
+          "applause": 0.184,
+          "top": "eyeroll",
+          "confidence": 0.59
+        },
+        "founder": {
+          "applause": 0.008,
+          "top": "eyeroll",
+          "confidence": 0.94
+        },
+        "investor": {
+          "applause": 0.01,
+          "top": "eyeroll",
+          "confidence": 0.88
+        },
+        "hr_manager": {
+          "applause": 0.35350000000000004,
+          "top": "eyeroll",
+          "confidence": 0.41
+        },
+        "product_manager": {
+          "applause": 0.09898989898989898,
+          "top": "eyeroll",
+          "confidence": 0.78
+        },
+        "designer": {
+          "applause": 0.006,
+          "top": "eyeroll",
+          "confidence": 0.96
+        },
+        "client": {
+          "applause": 0.002,
+          "top": "eyeroll",
+          "confidence": 0.86
+        },
+        "uncle": {
+          "applause": 0.704,
+          "top": "comment",
+          "confidence": 0.29
+        },
+        "mom": {
+          "applause": 0.8634999999999998,
+          "top": "applaud",
+          "confidence": 0.62
+        },
+        "coach": {
+          "applause": 0.637,
+          "top": "applaud",
+          "confidence": 0.22
+        }
+      },
+      "metrics": {
+        "clarity": 0.8225,
+        "cliche": 0.8125,
+        "authenticity": 0.14,
+        "soundsLikeAi": 0.51,
+        "callToAction": 0.04
+      },
+      "headlines": {
+        "clarity": "Claro",
+        "authenticity": "Pouco autêntico",
+        "cliche": "Bem clichê",
+        "soundsLikeAi": "Sim",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.6766666666666666,
+      "latencyMs": 269
+    },
+    {
+      "id": "texto-de-ia",
+      "applause": 2,
+      "personas": {
+        "recruiter": {
+          "applause": 0.014000000000000002,
+          "top": "eyeroll",
+          "confidence": 0.91
+        },
+        "senior_dev": {
+          "applause": 0,
+          "top": "eyeroll",
+          "confidence": 0.94
+        },
+        "junior_dev": {
+          "applause": 0.087,
+          "top": "eyeroll",
+          "confidence": 0.83
+        },
+        "founder": {
+          "applause": 0.004,
+          "top": "eyeroll",
+          "confidence": 0.98
+        },
+        "investor": {
+          "applause": 0.004,
+          "top": "eyeroll",
+          "confidence": 0.97
+        },
+        "hr_manager": {
+          "applause": 0.074,
+          "top": "eyeroll",
+          "confidence": 0.57
+        },
+        "product_manager": {
+          "applause": 0.019999999999999997,
+          "top": "eyeroll",
+          "confidence": 0.95
+        },
+        "designer": {
+          "applause": 0,
+          "top": "eyeroll",
+          "confidence": 1
+        },
+        "client": {
+          "applause": 0.019,
+          "top": "eyeroll",
+          "confidence": 0.95
+        },
+        "uncle": {
+          "applause": 0.49750000000000005,
+          "top": "comment",
+          "confidence": 0.35
+        },
+        "mom": {
+          "applause": 0.7995000000000002,
+          "top": "applaud",
+          "confidence": 0.52
+        },
+        "coach": {
+          "applause": 0.5135000000000001,
+          "top": "eyeroll",
+          "confidence": 0.28
+        }
+      },
+      "metrics": {
+        "clarity": 0.4925,
+        "cliche": 0.9975,
+        "authenticity": 0.0325,
+        "soundsLikeAi": 0.86,
+        "callToAction": 0.03
+      },
+      "headlines": {
+        "clarity": "Razoável",
+        "authenticity": "Artificial",
+        "cliche": "Puro clichê",
+        "soundsLikeAi": "Sim",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.85,
+      "latencyMs": 272
+    },
+    {
+      "id": "vaga-com-chamada",
+      "applause": 44,
+      "personas": {
+        "recruiter": {
+          "applause": 0.76,
+          "top": "share",
+          "confidence": 0.53
+        },
+        "senior_dev": {
+          "applause": 0.1885,
+          "top": "ignore",
+          "confidence": 0.37
+        },
+        "junior_dev": {
+          "applause": 0.47676767676767673,
+          "top": "comment",
+          "confidence": 0.25
+        },
+        "founder": {
+          "applause": 0.48900000000000005,
+          "top": "ignore",
+          "confidence": 0.26
+        },
+        "investor": {
+          "applause": 0.1455,
+          "top": "ignore",
+          "confidence": 0.54
+        },
+        "hr_manager": {
+          "applause": 0.6869999999999998,
+          "top": "share",
+          "confidence": 0.28
+        },
+        "product_manager": {
+          "applause": 0.2965,
+          "top": "ignore",
+          "confidence": 0.53
+        },
+        "designer": {
+          "applause": 0.359,
+          "top": "eyeroll",
+          "confidence": 0.28
+        },
+        "client": {
+          "applause": 0.5315000000000001,
+          "top": "ignore",
+          "confidence": 0.19
+        },
+        "uncle": {
+          "applause": 0.5675,
+          "top": "comment",
+          "confidence": 0.44
+        },
+        "mom": {
+          "applause": 0.929,
+          "top": "applaud",
+          "confidence": 0.56
+        },
+        "coach": {
+          "applause": 0.569,
+          "top": "share",
+          "confidence": 0.19
+        }
+      },
+      "metrics": {
+        "clarity": 0.9725,
+        "cliche": 0.2375,
+        "authenticity": 0.4875,
+        "soundsLikeAi": 0.33,
+        "callToAction": 0.98
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Neutro",
+        "cliche": "Pouco clichê",
+        "soundsLikeAi": "Não",
+        "callToAction": "Sim"
+      },
+      "scoreConfidence": 0.7799999999999999,
+      "latencyMs": 309
+    },
+    {
+      "id": "vaga-sem-chamada",
+      "applause": 36,
+      "personas": {
+        "recruiter": {
+          "applause": 0.5770000000000001,
+          "top": "share",
+          "confidence": 0.21
+        },
+        "senior_dev": {
+          "applause": 0.171,
+          "top": "ignore",
+          "confidence": 0.39
+        },
+        "junior_dev": {
+          "applause": 0.4995,
+          "top": "comment",
+          "confidence": 0.3
+        },
+        "founder": {
+          "applause": 0.305,
+          "top": "ignore",
+          "confidence": 0.3
+        },
+        "investor": {
+          "applause": 0.136,
+          "top": "ignore",
+          "confidence": 0.55
+        },
+        "hr_manager": {
+          "applause": 0.5375000000000001,
+          "top": "comment",
+          "confidence": 0.19
+        },
+        "product_manager": {
+          "applause": 0.30600000000000005,
+          "top": "ignore",
+          "confidence": 0.45
+        },
+        "designer": {
+          "applause": 0.21550000000000002,
+          "top": "eyeroll",
+          "confidence": 0.33
+        },
+        "client": {
+          "applause": 0.467,
+          "top": "ignore",
+          "confidence": 0.37
+        },
+        "uncle": {
+          "applause": 0.5095000000000001,
+          "top": "comment",
+          "confidence": 0.5
+        },
+        "mom": {
+          "applause": 0.9155000000000001,
+          "top": "applaud",
+          "confidence": 0.61
+        },
+        "coach": {
+          "applause": 0.461,
+          "top": "ignore",
+          "confidence": 0.29
+        }
+      },
+      "metrics": {
+        "clarity": 0.985,
+        "cliche": 0.2225,
+        "authenticity": 0.4975,
+        "soundsLikeAi": 0.28,
+        "callToAction": 0.08
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Neutro",
+        "cliche": "Original",
+        "soundsLikeAi": "Não",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.7333333333333334,
+      "latencyMs": 273
+    },
+    {
+      "id": "rodada-de-investimento",
+      "applause": 61,
+      "personas": {
+        "recruiter": {
+          "applause": 0.6305000000000001,
+          "top": "comment",
+          "confidence": 0.26
+        },
+        "senior_dev": {
+          "applause": 0.08434343434343433,
+          "top": "eyeroll",
+          "confidence": 0.63
+        },
+        "junior_dev": {
+          "applause": 0.857,
+          "top": "applaud",
+          "confidence": 0.68
+        },
+        "founder": {
+          "applause": 0.8250000000000001,
+          "top": "applaud",
+          "confidence": 0.3
+        },
+        "investor": {
+          "applause": 0.6855,
+          "top": "comment",
+          "confidence": 0.68
+        },
+        "hr_manager": {
+          "applause": 0.523,
+          "top": "comment",
+          "confidence": 0.29
+        },
+        "product_manager": {
+          "applause": 0.6000000000000001,
+          "top": "comment",
+          "confidence": 0.88
+        },
+        "designer": {
+          "applause": 0.6134999999999999,
+          "top": "applaud",
+          "confidence": 0.27
+        },
+        "client": {
+          "applause": 0.7105,
+          "top": "applaud",
+          "confidence": 0.37
+        },
+        "uncle": {
+          "applause": 0.5920000000000001,
+          "top": "comment",
+          "confidence": 0.38
+        },
+        "mom": {
+          "applause": 0.9454999999999999,
+          "top": "applaud",
+          "confidence": 0.6
+        },
+        "coach": {
+          "applause": 0.8055,
+          "top": "applaud",
+          "confidence": 0.48
+        }
+      },
+      "metrics": {
+        "clarity": 0.9375,
+        "cliche": 0.17,
+        "authenticity": 0.4075,
+        "soundsLikeAi": 0.35,
+        "callToAction": 0.03
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Neutro",
+        "cliche": "Pouco clichê",
+        "soundsLikeAi": "Não",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.6,
+      "latencyMs": 279
+    },
+    {
+      "id": "aprendizado-de-produto",
+      "applause": 77,
+      "personas": {
+        "recruiter": {
+          "applause": 0.788,
+          "top": "comment",
+          "confidence": 0.22
+        },
+        "senior_dev": {
+          "applause": 0.6404999999999998,
+          "top": "comment",
+          "confidence": 0.28
+        },
+        "junior_dev": {
+          "applause": 0.8555,
+          "top": "applaud",
+          "confidence": 0.45
+        },
+        "founder": {
+          "applause": 0.8905,
+          "top": "share",
+          "confidence": 0.41
+        },
+        "investor": {
+          "applause": 0.6645,
+          "top": "comment",
+          "confidence": 0.71
+        },
+        "hr_manager": {
+          "applause": 0.5195000000000001,
+          "top": "ignore",
+          "confidence": 0.2
+        },
+        "product_manager": {
+          "applause": 0.748,
+          "top": "comment",
+          "confidence": 0.57
+        },
+        "designer": {
+          "applause": 0.892,
+          "top": "share",
+          "confidence": 0.31
+        },
+        "client": {
+          "applause": 0.9015,
+          "top": "applaud",
+          "confidence": 0.3
+        },
+        "uncle": {
+          "applause": 0.6855,
+          "top": "comment",
+          "confidence": 0.45
+        },
+        "mom": {
+          "applause": 0.961,
+          "top": "applaud",
+          "confidence": 0.68
+        },
+        "coach": {
+          "applause": 0.65,
+          "top": "applaud",
+          "confidence": 0.21
+        }
+      },
+      "metrics": {
+        "clarity": 0.9675,
+        "cliche": 0.11,
+        "authenticity": 0.7675,
+        "soundsLikeAi": 0.25,
+        "callToAction": 0.03
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Autêntico",
+        "cliche": "Original",
+        "soundsLikeAi": "Não",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.7766666666666667,
+      "latencyMs": 296
+    },
+    {
+      "id": "acessibilidade",
+      "applause": 78,
+      "personas": {
+        "recruiter": {
+          "applause": 0.8595,
+          "top": "applaud",
+          "confidence": 0.28
+        },
+        "senior_dev": {
+          "applause": 0.3355,
+          "top": "eyeroll",
+          "confidence": 0.38
+        },
+        "junior_dev": {
+          "applause": 0.906,
+          "top": "applaud",
+          "confidence": 0.45
+        },
+        "founder": {
+          "applause": 0.871,
+          "top": "share",
+          "confidence": 0.39
+        },
+        "investor": {
+          "applause": 0.7000000000000001,
+          "top": "comment",
+          "confidence": 0.58
+        },
+        "hr_manager": {
+          "applause": 0.8735,
+          "top": "applaud",
+          "confidence": 0.44
+        },
+        "product_manager": {
+          "applause": 0.688,
+          "top": "comment",
+          "confidence": 0.74
+        },
+        "designer": {
+          "applause": 0.8895,
+          "top": "share",
+          "confidence": 0.4
+        },
+        "client": {
+          "applause": 0.9400000000000002,
+          "top": "share",
+          "confidence": 0.49
+        },
+        "uncle": {
+          "applause": 0.7975,
+          "top": "comment",
+          "confidence": 0.31
+        },
+        "mom": {
+          "applause": 0.9794999999999999,
+          "top": "applaud",
+          "confidence": 0.73
+        },
+        "coach": {
+          "applause": 0.8204999999999999,
+          "top": "applaud",
+          "confidence": 0.42
+        }
+      },
+      "metrics": {
+        "clarity": 0.975,
+        "cliche": 0.3675,
+        "authenticity": 0.5375,
+        "soundsLikeAi": 0.3,
+        "callToAction": 0.03
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Autêntico",
+        "cliche": "Pouco clichê",
+        "soundsLikeAi": "Não",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.6,
+      "latencyMs": 271
+    },
+    {
+      "id": "semana-de-quatro-dias",
+      "applause": 81,
+      "personas": {
+        "recruiter": {
+          "applause": 0.7979999999999999,
+          "top": "share",
+          "confidence": 0.33
+        },
+        "senior_dev": {
+          "applause": 0.531,
+          "top": "comment",
+          "confidence": 0.41
+        },
+        "junior_dev": {
+          "applause": 0.8752525252525254,
+          "top": "applaud",
+          "confidence": 0.47
+        },
+        "founder": {
+          "applause": 0.885,
+          "top": "share",
+          "confidence": 0.58
+        },
+        "investor": {
+          "applause": 0.6890000000000001,
+          "top": "comment",
+          "confidence": 0.54
+        },
+        "hr_manager": {
+          "applause": 0.952,
+          "top": "share",
+          "confidence": 0.72
+        },
+        "product_manager": {
+          "applause": 0.8200000000000001,
+          "top": "share",
+          "confidence": 0.45
+        },
+        "designer": {
+          "applause": 0.9005,
+          "top": "share",
+          "confidence": 0.43
+        },
+        "client": {
+          "applause": 0.847,
+          "top": "share",
+          "confidence": 0.41
+        },
+        "uncle": {
+          "applause": 0.696,
+          "top": "comment",
+          "confidence": 0.47
+        },
+        "mom": {
+          "applause": 0.9714999999999999,
+          "top": "applaud",
+          "confidence": 0.69
+        },
+        "coach": {
+          "applause": 0.7075,
+          "top": "applaud",
+          "confidence": 0.25
+        }
+      },
+      "metrics": {
+        "clarity": 0.9275,
+        "cliche": 0.1325,
+        "authenticity": 0.6875,
+        "soundsLikeAi": 0.24,
+        "callToAction": 0.86
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Autêntico",
+        "cliche": "Original",
+        "soundsLikeAi": "Não",
+        "callToAction": "Sim"
+      },
+      "scoreConfidence": 0.6733333333333333,
+      "latencyMs": 287
+    },
+    {
+      "id": "primeiro-emprego",
+      "applause": 56,
+      "personas": {
+        "recruiter": {
+          "applause": 0.4670000000000001,
+          "top": "eyeroll",
+          "confidence": 0.26
+        },
+        "senior_dev": {
+          "applause": 0.14750000000000002,
+          "top": "eyeroll",
+          "confidence": 0.69
+        },
+        "junior_dev": {
+          "applause": 0.7495,
+          "top": "comment",
+          "confidence": 0.56
+        },
+        "founder": {
+          "applause": 0.605050505050505,
+          "top": "comment",
+          "confidence": 0.24
+        },
+        "investor": {
+          "applause": 0.259,
+          "top": "eyeroll",
+          "confidence": 0.39
+        },
+        "hr_manager": {
+          "applause": 0.861,
+          "top": "applaud",
+          "confidence": 0.38
+        },
+        "product_manager": {
+          "applause": 0.6435,
+          "top": "comment",
+          "confidence": 0.83
+        },
+        "designer": {
+          "applause": 0.6865,
+          "top": "applaud",
+          "confidence": 0.24
+        },
+        "client": {
+          "applause": 0.6565,
+          "top": "applaud",
+          "confidence": 0.22
+        },
+        "uncle": {
+          "applause": 0.7,
+          "top": "comment",
+          "confidence": 0.53
+        },
+        "mom": {
+          "applause": 0.9775,
+          "top": "applaud",
+          "confidence": 0.75
+        },
+        "coach": {
+          "applause": 0.8134999999999999,
+          "top": "applaud",
+          "confidence": 0.29
+        }
+      },
+      "metrics": {
+        "clarity": 0.9825,
+        "cliche": 0.405,
+        "authenticity": 0.69,
+        "soundsLikeAi": 0.31,
+        "callToAction": 0.62
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Autêntico",
+        "cliche": "Algo clichê",
+        "soundsLikeAi": "Não",
+        "callToAction": "Sim"
+      },
+      "scoreConfidence": 0.77,
+      "latencyMs": 285
+    },
+    {
+      "id": "certificacao",
+      "applause": 59,
+      "personas": {
+        "recruiter": {
+          "applause": 0.5815,
+          "top": "comment",
+          "confidence": 0.28
+        },
+        "senior_dev": {
+          "applause": 0.24700000000000003,
+          "top": "eyeroll",
+          "confidence": 0.52
+        },
+        "junior_dev": {
+          "applause": 0.7909999999999999,
+          "top": "comment",
+          "confidence": 0.44
+        },
+        "founder": {
+          "applause": 0.677,
+          "top": "comment",
+          "confidence": 0.16
+        },
+        "investor": {
+          "applause": 0.1925,
+          "top": "ignore",
+          "confidence": 0.36
+        },
+        "hr_manager": {
+          "applause": 0.8695,
+          "top": "applaud",
+          "confidence": 0.46
+        },
+        "product_manager": {
+          "applause": 0.6875,
+          "top": "comment",
+          "confidence": 0.72
+        },
+        "designer": {
+          "applause": 0.6595,
+          "top": "comment",
+          "confidence": 0.23
+        },
+        "client": {
+          "applause": 0.632,
+          "top": "comment",
+          "confidence": 0.19
+        },
+        "uncle": {
+          "applause": 0.706,
+          "top": "comment",
+          "confidence": 0.53
+        },
+        "mom": {
+          "applause": 0.9655,
+          "top": "applaud",
+          "confidence": 0.73
+        },
+        "coach": {
+          "applause": 0.7974999999999998,
+          "top": "applaud",
+          "confidence": 0.39
+        }
+      },
+      "metrics": {
+        "clarity": 0.975,
+        "cliche": 0.18,
+        "authenticity": 0.71,
+        "soundsLikeAi": 0.23,
+        "callToAction": 0.58
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Autêntico",
+        "cliche": "Pouco clichê",
+        "soundsLikeAi": "Não",
+        "callToAction": "Sim"
+      },
+      "scoreConfidence": 0.7999999999999999,
+      "latencyMs": 324
+    },
+    {
+      "id": "caso-de-cliente",
+      "applause": 67,
+      "personas": {
+        "recruiter": {
+          "applause": 0.6715,
+          "top": "comment",
+          "confidence": 0.42
+        },
+        "senior_dev": {
+          "applause": 0.333,
+          "top": "comment",
+          "confidence": 0.36
+        },
+        "junior_dev": {
+          "applause": 0.7645,
+          "top": "comment",
+          "confidence": 0.43
+        },
+        "founder": {
+          "applause": 0.8290000000000001,
+          "top": "share",
+          "confidence": 0.35
+        },
+        "investor": {
+          "applause": 0.6535,
+          "top": "comment",
+          "confidence": 0.75
+        },
+        "hr_manager": {
+          "applause": 0.601,
+          "top": "comment",
+          "confidence": 0.53
+        },
+        "product_manager": {
+          "applause": 0.656,
+          "top": "comment",
+          "confidence": 0.84
+        },
+        "designer": {
+          "applause": 0.7969999999999999,
+          "top": "comment",
+          "confidence": 0.22
+        },
+        "client": {
+          "applause": 0.7655000000000001,
+          "top": "comment",
+          "confidence": 0.44
+        },
+        "uncle": {
+          "applause": 0.632,
+          "top": "comment",
+          "confidence": 0.53
+        },
+        "mom": {
+          "applause": 0.9610000000000001,
+          "top": "applaud",
+          "confidence": 0.73
+        },
+        "coach": {
+          "applause": 0.6895,
+          "top": "comment",
+          "confidence": 0.18
+        }
+      },
+      "metrics": {
+        "clarity": 0.9625,
+        "cliche": 0.15,
+        "authenticity": 0.6925,
+        "soundsLikeAi": 0.36,
+        "callToAction": 0.03
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Autêntico",
+        "cliche": "Pouco clichê",
+        "soundsLikeAi": "Não",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.7533333333333334,
+      "latencyMs": 282
+    },
+    {
+      "id": "curso-milagroso",
+      "applause": 1,
+      "personas": {
+        "recruiter": {
+          "applause": 0.006,
+          "top": "eyeroll",
+          "confidence": 0.92
+        },
+        "senior_dev": {
+          "applause": 0.002,
+          "top": "eyeroll",
+          "confidence": 0.64
+        },
+        "junior_dev": {
+          "applause": 0.032,
+          "top": "eyeroll",
+          "confidence": 0.87
+        },
+        "founder": {
+          "applause": 0.004,
+          "top": "eyeroll",
+          "confidence": 0.85
+        },
+        "investor": {
+          "applause": 0.002,
+          "top": "eyeroll",
+          "confidence": 0.82
+        },
+        "hr_manager": {
+          "applause": 0,
+          "top": "eyeroll",
+          "confidence": 0.81
+        },
+        "product_manager": {
+          "applause": 0.002,
+          "top": "eyeroll",
+          "confidence": 0.83
+        },
+        "designer": {
+          "applause": 0,
+          "top": "eyeroll",
+          "confidence": 0.95
+        },
+        "client": {
+          "applause": 0.002,
+          "top": "eyeroll",
+          "confidence": 0.71
+        },
+        "uncle": {
+          "applause": 0.112,
+          "top": "eyeroll",
+          "confidence": 0.46
+        },
+        "mom": {
+          "applause": 0.30050000000000004,
+          "top": "eyeroll",
+          "confidence": 0.47
+        },
+        "coach": {
+          "applause": 0.008,
+          "top": "eyeroll",
+          "confidence": 0.77
+        }
+      },
+      "metrics": {
+        "clarity": 0.88,
+        "cliche": 0.9975,
+        "authenticity": 0.0025,
+        "soundsLikeAi": 0.56,
+        "callToAction": 0.98
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Artificial",
+        "cliche": "Puro clichê",
+        "soundsLikeAi": "Sim",
+        "callToAction": "Sim"
+      },
+      "scoreConfidence": 0.86,
+      "latencyMs": 326
+    },
+    {
+      "id": "opiniao-arrogante",
+      "applause": 1,
+      "personas": {
+        "recruiter": {
+          "applause": 0.002,
+          "top": "disagree",
+          "confidence": 0.53
+        },
+        "senior_dev": {
+          "applause": 0.014,
+          "top": "disagree",
+          "confidence": 0.53
+        },
+        "junior_dev": {
+          "applause": 0.008,
+          "top": "disagree",
+          "confidence": 0.78
+        },
+        "founder": {
+          "applause": 0.008,
+          "top": "disagree",
+          "confidence": 0.6
+        },
+        "investor": {
+          "applause": 0.004,
+          "top": "disagree",
+          "confidence": 0.46
+        },
+        "hr_manager": {
+          "applause": 0.008,
+          "top": "disagree",
+          "confidence": 0.81
+        },
+        "product_manager": {
+          "applause": 0.024,
+          "top": "disagree",
+          "confidence": 0.73
+        },
+        "designer": {
+          "applause": 0,
+          "top": "eyeroll",
+          "confidence": 0.6
+        },
+        "client": {
+          "applause": 0,
+          "top": "disagree",
+          "confidence": 0.79
+        },
+        "uncle": {
+          "applause": 0.352,
+          "top": "comment",
+          "confidence": 0.31
+        },
+        "mom": {
+          "applause": 0.241,
+          "top": "disagree",
+          "confidence": 0.44
+        },
+        "coach": {
+          "applause": 0.203,
+          "top": "disagree",
+          "confidence": 0.37
+        }
+      },
+      "metrics": {
+        "clarity": 0.895,
+        "cliche": 0.93,
+        "authenticity": 0.04,
+        "soundsLikeAi": 0.47,
+        "callToAction": 0.04
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Artificial",
+        "cliche": "Puro clichê",
+        "soundsLikeAi": "Não",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.7633333333333333,
+      "latencyMs": 317
+    },
+    {
+      "id": "bom-dia-generico",
+      "applause": 8,
+      "personas": {
+        "recruiter": {
+          "applause": 0.066,
+          "top": "eyeroll",
+          "confidence": 0.62
+        },
+        "senior_dev": {
+          "applause": 0.002,
+          "top": "eyeroll",
+          "confidence": 0.96
+        },
+        "junior_dev": {
+          "applause": 0.34900000000000003,
+          "top": "eyeroll",
+          "confidence": 0.45
+        },
+        "founder": {
+          "applause": 0.020000000000000004,
+          "top": "eyeroll",
+          "confidence": 0.87
+        },
+        "investor": {
+          "applause": 0.012,
+          "top": "eyeroll",
+          "confidence": 0.93
+        },
+        "hr_manager": {
+          "applause": 0.1635,
+          "top": "eyeroll",
+          "confidence": 0.69
+        },
+        "product_manager": {
+          "applause": 0.0375,
+          "top": "eyeroll",
+          "confidence": 0.84
+        },
+        "designer": {
+          "applause": 0.002,
+          "top": "eyeroll",
+          "confidence": 0.99
+        },
+        "client": {
+          "applause": 0.10900000000000001,
+          "top": "eyeroll",
+          "confidence": 0.74
+        },
+        "uncle": {
+          "applause": 0.5355,
+          "top": "comment",
+          "confidence": 0.55
+        },
+        "mom": {
+          "applause": 0.8955,
+          "top": "applaud",
+          "confidence": 0.69
+        },
+        "coach": {
+          "applause": 0.6695,
+          "top": "applaud",
+          "confidence": 0.27
+        }
+      },
+      "metrics": {
+        "clarity": 0.9325,
+        "cliche": 1,
+        "authenticity": 0.075,
+        "soundsLikeAi": 0.51,
+        "callToAction": 0.03
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Artificial",
+        "cliche": "Puro clichê",
+        "soundsLikeAi": "Sim",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.8433333333333334,
+      "latencyMs": 368
+    },
+    {
+      "id": "licao-do-motorista",
+      "applause": 17,
+      "personas": {
+        "recruiter": {
+          "applause": 0.029500000000000002,
+          "top": "eyeroll",
+          "confidence": 0.82
+        },
+        "senior_dev": {
+          "applause": 0,
+          "top": "eyeroll",
+          "confidence": 0.9
+        },
+        "junior_dev": {
+          "applause": 0.4555,
+          "top": "eyeroll",
+          "confidence": 0.33
+        },
+        "founder": {
+          "applause": 0.01,
+          "top": "eyeroll",
+          "confidence": 0.86
+        },
+        "investor": {
+          "applause": 0.010000000000000002,
+          "top": "eyeroll",
+          "confidence": 0.9
+        },
+        "hr_manager": {
+          "applause": 0.5255,
+          "top": "comment",
+          "confidence": 0.29
+        },
+        "product_manager": {
+          "applause": 0.355,
+          "top": "comment",
+          "confidence": 0.47
+        },
+        "designer": {
+          "applause": 0.043,
+          "top": "eyeroll",
+          "confidence": 0.9
+        },
+        "client": {
+          "applause": 0.0835,
+          "top": "eyeroll",
+          "confidence": 0.74
+        },
+        "uncle": {
+          "applause": 0.6839999999999999,
+          "top": "comment",
+          "confidence": 0.42
+        },
+        "mom": {
+          "applause": 0.788,
+          "top": "applaud",
+          "confidence": 0.54
+        },
+        "coach": {
+          "applause": 0.667,
+          "top": "comment",
+          "confidence": 0.15
+        }
+      },
+      "metrics": {
+        "clarity": 0.9525,
+        "cliche": 0.6375,
+        "authenticity": 0.395,
+        "soundsLikeAi": 0.44,
+        "callToAction": 0.45
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Dividido",
+        "cliche": "Bem clichê",
+        "soundsLikeAi": "Não",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.5733333333333333,
+      "latencyMs": 262
+    },
+    {
+      "id": "desabafo-burnout",
+      "applause": 56,
+      "personas": {
+        "recruiter": {
+          "applause": 0.4355,
+          "top": "ignore",
+          "confidence": 0.23
+        },
+        "senior_dev": {
+          "applause": 0.15950000000000003,
+          "top": "eyeroll",
+          "confidence": 0.66
+        },
+        "junior_dev": {
+          "applause": 0.8095,
+          "top": "applaud",
+          "confidence": 0.39
+        },
+        "founder": {
+          "applause": 0.3675,
+          "top": "eyeroll",
+          "confidence": 0.34
+        },
+        "investor": {
+          "applause": 0.0955,
+          "top": "eyeroll",
+          "confidence": 0.56
+        },
+        "hr_manager": {
+          "applause": 0.8614999999999999,
+          "top": "applaud",
+          "confidence": 0.36
+        },
+        "product_manager": {
+          "applause": 0.6965000000000001,
+          "top": "comment",
+          "confidence": 0.61
+        },
+        "designer": {
+          "applause": 0.8565656565656565,
+          "top": "applaud",
+          "confidence": 0.46
+        },
+        "client": {
+          "applause": 0.7439999999999999,
+          "top": "applaud",
+          "confidence": 0.43
+        },
+        "uncle": {
+          "applause": 0.708,
+          "top": "comment",
+          "confidence": 0.57
+        },
+        "mom": {
+          "applause": 0.812,
+          "top": "applaud",
+          "confidence": 0.54
+        },
+        "coach": {
+          "applause": 0.7595,
+          "top": "comment",
+          "confidence": 0.28
+        }
+      },
+      "metrics": {
+        "clarity": 0.935,
+        "cliche": 0.1725,
+        "authenticity": 0.8825,
+        "soundsLikeAi": 0.25,
+        "callToAction": 0.02
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Muito autêntico",
+        "cliche": "Pouco clichê",
+        "soundsLikeAi": "Não",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.6766666666666667,
+      "latencyMs": 275
+    },
+    {
+      "id": "texto-confuso",
+      "applause": 11,
+      "personas": {
+        "recruiter": {
+          "applause": 0.134,
+          "top": "ignore",
+          "confidence": 0.6
+        },
+        "senior_dev": {
+          "applause": 0.0455,
+          "top": "eyeroll",
+          "confidence": 0.68
+        },
+        "junior_dev": {
+          "applause": 0.14450000000000002,
+          "top": "eyeroll",
+          "confidence": 0.35
+        },
+        "founder": {
+          "applause": 0.059500000000000004,
+          "top": "eyeroll",
+          "confidence": 0.57
+        },
+        "investor": {
+          "applause": 0.0695,
+          "top": "eyeroll",
+          "confidence": 0.59
+        },
+        "hr_manager": {
+          "applause": 0.167,
+          "top": "ignore",
+          "confidence": 0.44
+        },
+        "product_manager": {
+          "applause": 0.26949999999999996,
+          "top": "eyeroll",
+          "confidence": 0.35
+        },
+        "designer": {
+          "applause": 0.035500000000000004,
+          "top": "eyeroll",
+          "confidence": 0.8
+        },
+        "client": {
+          "applause": 0.051000000000000004,
+          "top": "eyeroll",
+          "confidence": 0.65
+        },
+        "uncle": {
+          "applause": 0.3745,
+          "top": "comment",
+          "confidence": 0.52
+        },
+        "mom": {
+          "applause": 0.5905000000000001,
+          "top": "like",
+          "confidence": 0.19
+        },
+        "coach": {
+          "applause": 0.10550000000000001,
+          "top": "eyeroll",
+          "confidence": 0.52
+        }
+      },
+      "metrics": {
+        "clarity": 0.135,
+        "cliche": 0.05,
+        "authenticity": 0.775,
+        "soundsLikeAi": 0.17,
+        "callToAction": 0.03
+      },
+      "headlines": {
+        "clarity": "Confuso",
+        "authenticity": "Autêntico",
+        "cliche": "Original",
+        "soundsLikeAi": "Não",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.69,
+      "latencyMs": 274
+    },
+    {
+      "id": "artigo-sem-opiniao",
+      "applause": 43,
+      "personas": {
+        "recruiter": {
+          "applause": 0.4515,
+          "top": "ignore",
+          "confidence": 0.4
+        },
+        "senior_dev": {
+          "applause": 0.415,
+          "top": "comment",
+          "confidence": 0.22
+        },
+        "junior_dev": {
+          "applause": 0.7044999999999999,
+          "top": "comment",
+          "confidence": 0.39
+        },
+        "founder": {
+          "applause": 0.333,
+          "top": "ignore",
+          "confidence": 0.62
+        },
+        "investor": {
+          "applause": 0.22200000000000003,
+          "top": "ignore",
+          "confidence": 0.87
+        },
+        "hr_manager": {
+          "applause": 0.20400000000000001,
+          "top": "ignore",
+          "confidence": 0.97
+        },
+        "product_manager": {
+          "applause": 0.6515,
+          "top": "comment",
+          "confidence": 0.62
+        },
+        "designer": {
+          "applause": 0.3685,
+          "top": "eyeroll",
+          "confidence": 0.19
+        },
+        "client": {
+          "applause": 0.498,
+          "top": "like",
+          "confidence": 0.4
+        },
+        "uncle": {
+          "applause": 0.5189999999999999,
+          "top": "comment",
+          "confidence": 0.53
+        },
+        "mom": {
+          "applause": 0.8450000000000001,
+          "top": "applaud",
+          "confidence": 0.54
+        },
+        "coach": {
+          "applause": 0.34700000000000003,
+          "top": "ignore",
+          "confidence": 0.56
+        }
+      },
+      "metrics": {
+        "clarity": 0.765,
+        "cliche": 0.195,
+        "authenticity": 0.4775,
+        "soundsLikeAi": 0.27,
+        "callToAction": 0.04
+      },
+      "headlines": {
+        "clarity": "Claro",
+        "authenticity": "Neutro",
+        "cliche": "Original",
+        "soundsLikeAi": "Não",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.6133333333333333,
+      "latencyMs": 317
+    }
+  ]
+}

@@ -1,0 +1,4249 @@
+{
+  "label": "v4",
+  "date": "2026-10-01",
+  "questions": "d9dd18f5",
+  "snapshots": [
+    {
+      "id": "tecnico-com-numeros",
+      "applause": 79,
+      "personas": {
+        "recruiter": {
+          "applause": 0.8485,
+          "top": "comment",
+          "confidence": 0.35,
+          "distribution": {
+            "applaud": 0.23,
+            "share": 0.24,
+            "like": 0.09,
+            "comment": 0.43,
+            "disagree": 0,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0
+          }
+        },
+        "senior_dev": {
+          "applause": 0.7484999999999999,
+          "top": "comment",
+          "confidence": 0.4,
+          "distribution": {
+            "applaud": 0.06,
+            "share": 0.19,
+            "like": 0.24,
+            "comment": 0.47,
+            "disagree": 0.01,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.02
+          }
+        },
+        "junior_dev": {
+          "applause": 0.9025000000000001,
+          "top": "applaud",
+          "confidence": 0.41,
+          "distribution": {
+            "applaud": 0.49,
+            "share": 0.15,
+            "like": 0.05,
+            "comment": 0.31,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0
+          }
+        },
+        "founder": {
+          "applause": 0.917,
+          "top": "share",
+          "confidence": 0.43,
+          "distribution": {
+            "applaud": 0.2,
+            "share": 0.51,
+            "like": 0.07,
+            "comment": 0.22,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0
+          }
+        },
+        "investor": {
+          "applause": 0.7686868686868686,
+          "top": "comment",
+          "confidence": 0.48,
+          "distribution": {
+            "applaud": 0.1414141414141414,
+            "share": 0.1313131313131313,
+            "like": 0.1313131313131313,
+            "comment": 0.5454545454545454,
+            "disagree": 0,
+            "ignore": 0.0404040404040404,
+            "sleep": 0,
+            "eyeroll": 0.0101010101010101
+          }
+        },
+        "hr_manager": {
+          "applause": 0.331,
+          "top": "ignore",
+          "confidence": 0.59,
+          "distribution": {
+            "applaud": 0.06,
+            "share": 0.01,
+            "like": 0.13,
+            "comment": 0.07,
+            "disagree": 0,
+            "ignore": 0.65,
+            "sleep": 0.01,
+            "eyeroll": 0.07
+          }
+        },
+        "product_manager": {
+          "applause": 0.8200000000000001,
+          "top": "comment",
+          "confidence": 0.68,
+          "distribution": {
+            "applaud": 0.03,
+            "share": 0.25,
+            "like": 0,
+            "comment": 0.72,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0
+          }
+        },
+        "designer": {
+          "applause": 0.8385,
+          "top": "share",
+          "confidence": 0.2,
+          "distribution": {
+            "applaud": 0.23,
+            "share": 0.3,
+            "like": 0.17,
+            "comment": 0.27,
+            "disagree": 0,
+            "ignore": 0.02,
+            "sleep": 0,
+            "eyeroll": 0.01
+          }
+        },
+        "client": {
+          "applause": 0.9195,
+          "top": "share",
+          "confidence": 0.32,
+          "distribution": {
+            "applaud": 0.31,
+            "share": 0.41000000000000003,
+            "like": 0.07,
+            "comment": 0.21,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0
+          }
+        },
+        "uncle": {
+          "applause": 0.76,
+          "top": "comment",
+          "confidence": 0.59,
+          "distribution": {
+            "applaud": 0.14,
+            "share": 0.13,
+            "like": 0.01,
+            "comment": 0.64,
+            "disagree": 0,
+            "ignore": 0.02,
+            "sleep": 0,
+            "eyeroll": 0.06
+          }
+        },
+        "mom": {
+          "applause": 0.9555,
+          "top": "applaud",
+          "confidence": 0.69,
+          "distribution": {
+            "applaud": 0.74,
+            "share": 0.14,
+            "like": 0.01,
+            "comment": 0.09,
+            "disagree": 0,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.01
+          }
+        },
+        "coach": {
+          "applause": 0.6739999999999999,
+          "top": "applaud",
+          "confidence": 0.22,
+          "distribution": {
+            "applaud": 0.31,
+            "share": 0.14,
+            "like": 0.07,
+            "comment": 0.21,
+            "disagree": 0.01,
+            "ignore": 0.12,
+            "sleep": 0.01,
+            "eyeroll": 0.13
+          }
+        }
+      },
+      "metrics": {
+        "clarity": 0.9175,
+        "cliche": 0.11,
+        "authenticity": 0.735,
+        "soundsLikeAi": 0.3,
+        "callToAction": 0.03
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Autêntico",
+        "cliche": "Original",
+        "soundsLikeAi": "Não",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.7399999999999999,
+      "latencyMs": 404
+    },
+    {
+      "id": "tecnico-com-cliche",
+      "applause": 37,
+      "personas": {
+        "recruiter": {
+          "applause": 0.388,
+          "top": "eyeroll",
+          "confidence": 0.37,
+          "distribution": {
+            "applaud": 0.09,
+            "share": 0.01,
+            "like": 0.17,
+            "comment": 0.24,
+            "disagree": 0,
+            "ignore": 0.03,
+            "sleep": 0,
+            "eyeroll": 0.46
+          }
+        },
+        "senior_dev": {
+          "applause": 0.0075,
+          "top": "eyeroll",
+          "confidence": 0.93,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0.01,
+            "disagree": 0.04,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.95
+          }
+        },
+        "junior_dev": {
+          "applause": 0.6739999999999999,
+          "top": "applaud",
+          "confidence": 0.39,
+          "distribution": {
+            "applaud": 0.47,
+            "share": 0.01,
+            "like": 0.12,
+            "comment": 0.16,
+            "disagree": 0.01,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.22
+          }
+        },
+        "founder": {
+          "applause": 0.36050000000000004,
+          "top": "eyeroll",
+          "confidence": 0.44,
+          "distribution": {
+            "applaud": 0.1,
+            "share": 0.03,
+            "like": 0.14,
+            "comment": 0.19,
+            "disagree": 0.01,
+            "ignore": 0.02,
+            "sleep": 0,
+            "eyeroll": 0.51
+          }
+        },
+        "investor": {
+          "applause": 0.439,
+          "top": "comment",
+          "confidence": 0.34,
+          "distribution": {
+            "applaud": 0.05,
+            "share": 0.01,
+            "like": 0.1,
+            "comment": 0.42,
+            "disagree": 0.01,
+            "ignore": 0.02,
+            "sleep": 0,
+            "eyeroll": 0.39
+          }
+        },
+        "hr_manager": {
+          "applause": 0.2715,
+          "top": "eyeroll",
+          "confidence": 0.58,
+          "distribution": {
+            "applaud": 0.16,
+            "share": 0,
+            "like": 0.06,
+            "comment": 0.09,
+            "disagree": 0.01,
+            "ignore": 0.04,
+            "sleep": 0,
+            "eyeroll": 0.64
+          }
+        },
+        "product_manager": {
+          "applause": 0.5378787878787878,
+          "top": "comment",
+          "confidence": 0.62,
+          "distribution": {
+            "applaud": 0.0101010101010101,
+            "share": 0,
+            "like": 0.0303030303030303,
+            "comment": 0.6767676767676767,
+            "disagree": 0,
+            "ignore": 0.0101010101010101,
+            "sleep": 0,
+            "eyeroll": 0.2727272727272727
+          }
+        },
+        "designer": {
+          "applause": 0.1305,
+          "top": "eyeroll",
+          "confidence": 0.8,
+          "distribution": {
+            "applaud": 0.03,
+            "share": 0.01,
+            "like": 0.06,
+            "comment": 0.07,
+            "disagree": 0.01,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.8099999999999999
+          }
+        },
+        "client": {
+          "applause": 0.507,
+          "top": "eyeroll",
+          "confidence": 0.27,
+          "distribution": {
+            "applaud": 0.22,
+            "share": 0.04,
+            "like": 0.18,
+            "comment": 0.18,
+            "disagree": 0.01,
+            "ignore": 0.02,
+            "sleep": 0,
+            "eyeroll": 0.35
+          }
+        },
+        "uncle": {
+          "applause": 0.718,
+          "top": "comment",
+          "confidence": 0.42,
+          "distribution": {
+            "applaud": 0.25,
+            "share": 0.1,
+            "like": 0.01,
+            "comment": 0.48,
+            "disagree": 0.01,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.14
+          }
+        },
+        "mom": {
+          "applause": 0.9104999999999999,
+          "top": "applaud",
+          "confidence": 0.66,
+          "distribution": {
+            "applaud": 0.71,
+            "share": 0.08,
+            "like": 0.01,
+            "comment": 0.15,
+            "disagree": 0,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.04
+          }
+        },
+        "coach": {
+          "applause": 0.6935,
+          "top": "applaud",
+          "confidence": 0.35,
+          "distribution": {
+            "applaud": 0.43,
+            "share": 0.05,
+            "like": 0.04,
+            "comment": 0.25,
+            "disagree": 0.01,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.21
+          }
+        }
+      },
+      "metrics": {
+        "clarity": 0.81,
+        "cliche": 0.51,
+        "authenticity": 0.3725,
+        "soundsLikeAi": 0.53,
+        "callToAction": 0.03
+      },
+      "headlines": {
+        "clarity": "Claro",
+        "authenticity": "Pouco autêntico",
+        "cliche": "Algo clichê",
+        "soundsLikeAi": "Sim",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.71,
+      "latencyMs": 315
+    },
+    {
+      "id": "demissao-gratidao",
+      "applause": 28,
+      "personas": {
+        "recruiter": {
+          "applause": 0.22,
+          "top": "eyeroll",
+          "confidence": 0.6,
+          "distribution": {
+            "applaud": 0.1,
+            "share": 0,
+            "like": 0.07,
+            "comment": 0.08,
+            "disagree": 0.01,
+            "ignore": 0.09,
+            "sleep": 0,
+            "eyeroll": 0.65
+          }
+        },
+        "senior_dev": {
+          "applause": 0,
+          "top": "eyeroll",
+          "confidence": 0.94,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0,
+            "disagree": 0.05,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.95
+          }
+        },
+        "junior_dev": {
+          "applause": 0.74,
+          "top": "applaud",
+          "confidence": 0.54,
+          "distribution": {
+            "applaud": 0.59,
+            "share": 0.01,
+            "like": 0.08,
+            "comment": 0.12,
+            "disagree": 0.02,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.17
+          }
+        },
+        "founder": {
+          "applause": 0.0335,
+          "top": "eyeroll",
+          "confidence": 0.89,
+          "distribution": {
+            "applaud": 0.01,
+            "share": 0,
+            "like": 0.01,
+            "comment": 0.01,
+            "disagree": 0.02,
+            "ignore": 0.05,
+            "sleep": 0,
+            "eyeroll": 0.9
+          }
+        },
+        "investor": {
+          "applause": 0.0315,
+          "top": "eyeroll",
+          "confidence": 0.85,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0.01,
+            "comment": 0.01,
+            "disagree": 0.01,
+            "ignore": 0.09,
+            "sleep": 0,
+            "eyeroll": 0.88
+          }
+        },
+        "hr_manager": {
+          "applause": 0.8304999999999999,
+          "top": "applaud",
+          "confidence": 0.61,
+          "distribution": {
+            "applaud": 0.6499999999999999,
+            "share": 0.019999999999999997,
+            "like": 0.029999999999999992,
+            "comment": 0.18999999999999995,
+            "disagree": 0.009999999999999998,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.09999999999999998
+          }
+        },
+        "product_manager": {
+          "applause": 0.29200000000000004,
+          "top": "eyeroll",
+          "confidence": 0.54,
+          "distribution": {
+            "applaud": 0.06,
+            "share": 0,
+            "like": 0.03,
+            "comment": 0.28,
+            "disagree": 0.01,
+            "ignore": 0.02,
+            "sleep": 0,
+            "eyeroll": 0.6
+          }
+        },
+        "designer": {
+          "applause": 0.0635,
+          "top": "eyeroll",
+          "confidence": 0.9,
+          "distribution": {
+            "applaud": 0.05,
+            "share": 0,
+            "like": 0.01,
+            "comment": 0.01,
+            "disagree": 0.02,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.91
+          }
+        },
+        "client": {
+          "applause": 0.34550000000000003,
+          "top": "eyeroll",
+          "confidence": 0.48,
+          "distribution": {
+            "applaud": 0.28,
+            "share": 0,
+            "like": 0.09,
+            "comment": 0.01,
+            "disagree": 0.05,
+            "ignore": 0.02,
+            "sleep": 0,
+            "eyeroll": 0.55
+          }
+        },
+        "uncle": {
+          "applause": 0.8181818181818183,
+          "top": "comment",
+          "confidence": 0.32,
+          "distribution": {
+            "applaud": 0.23232323232323235,
+            "share": 0.2828282828282829,
+            "like": 0,
+            "comment": 0.4040404040404041,
+            "disagree": 0.010101010101010102,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.07070707070707072
+          }
+        },
+        "mom": {
+          "applause": 0.9185,
+          "top": "applaud",
+          "confidence": 0.69,
+          "distribution": {
+            "applaud": 0.74,
+            "share": 0.12,
+            "like": 0.01,
+            "comment": 0.07,
+            "disagree": 0.02,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.04
+          }
+        },
+        "coach": {
+          "applause": 0.7835000000000001,
+          "top": "applaud",
+          "confidence": 0.29,
+          "distribution": {
+            "applaud": 0.39,
+            "share": 0.26,
+            "like": 0.01,
+            "comment": 0.17,
+            "disagree": 0.01,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.16
+          }
+        }
+      },
+      "metrics": {
+        "clarity": 0.89,
+        "cliche": 0.9325,
+        "authenticity": 0.155,
+        "soundsLikeAi": 0.65,
+        "callToAction": 0.03
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Pouco autêntico",
+        "cliche": "Puro clichê",
+        "soundsLikeAi": "Sim",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.6866666666666666,
+      "latencyMs": 263
+    },
+    {
+      "id": "humblebrag",
+      "applause": 9,
+      "personas": {
+        "recruiter": {
+          "applause": 0.019,
+          "top": "eyeroll",
+          "confidence": 0.9,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0.02,
+            "disagree": 0.04,
+            "ignore": 0.02,
+            "sleep": 0,
+            "eyeroll": 0.92
+          }
+        },
+        "senior_dev": {
+          "applause": 0,
+          "top": "eyeroll",
+          "confidence": 0.92,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0,
+            "disagree": 0.06,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.9400000000000001
+          }
+        },
+        "junior_dev": {
+          "applause": 0.2215,
+          "top": "eyeroll",
+          "confidence": 0.56,
+          "distribution": {
+            "applaud": 0.15,
+            "share": 0,
+            "like": 0.05,
+            "comment": 0.05,
+            "disagree": 0.11,
+            "ignore": 0.02,
+            "sleep": 0,
+            "eyeroll": 0.62
+          }
+        },
+        "founder": {
+          "applause": 0.0095,
+          "top": "eyeroll",
+          "confidence": 0.93,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0.01,
+            "disagree": 0.04,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.94
+          }
+        },
+        "investor": {
+          "applause": 0.0115,
+          "top": "eyeroll",
+          "confidence": 0.89,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0.01,
+            "disagree": 0.07,
+            "ignore": 0.02,
+            "sleep": 0,
+            "eyeroll": 0.9
+          }
+        },
+        "hr_manager": {
+          "applause": 0.413,
+          "top": "eyeroll",
+          "confidence": 0.38,
+          "distribution": {
+            "applaud": 0.16,
+            "share": 0.01,
+            "like": 0.03,
+            "comment": 0.3,
+            "disagree": 0.03,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.47000000000000003
+          }
+        },
+        "product_manager": {
+          "applause": 0.11449999999999999,
+          "top": "eyeroll",
+          "confidence": 0.79,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0.15,
+            "disagree": 0.01,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.83
+          }
+        },
+        "designer": {
+          "applause": 0.0075,
+          "top": "eyeroll",
+          "confidence": 0.96,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0.01,
+            "disagree": 0.02,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.97
+          }
+        },
+        "client": {
+          "applause": 0.012,
+          "top": "eyeroll",
+          "confidence": 0.84,
+          "distribution": {
+            "applaud": 0.01,
+            "share": 0,
+            "like": 0,
+            "comment": 0,
+            "disagree": 0.12,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.86
+          }
+        },
+        "uncle": {
+          "applause": 0.77,
+          "top": "comment",
+          "confidence": 0.3,
+          "distribution": {
+            "applaud": 0.17,
+            "share": 0.3,
+            "like": 0,
+            "comment": 0.4,
+            "disagree": 0.03,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.1
+          }
+        },
+        "mom": {
+          "applause": 0.8709999999999998,
+          "top": "applaud",
+          "confidence": 0.57,
+          "distribution": {
+            "applaud": 0.6299999999999999,
+            "share": 0.18999999999999995,
+            "like": 0.009999999999999998,
+            "comment": 0.059999999999999984,
+            "disagree": 0.019999999999999997,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.08999999999999998
+          }
+        },
+        "coach": {
+          "applause": 0.6645000000000001,
+          "top": "applaud",
+          "confidence": 0.27,
+          "distribution": {
+            "applaud": 0.36,
+            "share": 0.18,
+            "like": 0.02,
+            "comment": 0.15,
+            "disagree": 0.02,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.27
+          }
+        }
+      },
+      "metrics": {
+        "clarity": 0.8225,
+        "cliche": 0.795,
+        "authenticity": 0.15,
+        "soundsLikeAi": 0.53,
+        "callToAction": 0.05
+      },
+      "headlines": {
+        "clarity": "Claro",
+        "authenticity": "Pouco autêntico",
+        "cliche": "Bem clichê",
+        "soundsLikeAi": "Sim",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.6966666666666667,
+      "latencyMs": 273
+    },
+    {
+      "id": "texto-de-ia",
+      "applause": 2,
+      "personas": {
+        "recruiter": {
+          "applause": 0.018,
+          "top": "eyeroll",
+          "confidence": 0.9,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0,
+            "disagree": 0,
+            "ignore": 0.09,
+            "sleep": 0,
+            "eyeroll": 0.91
+          }
+        },
+        "senior_dev": {
+          "applause": 0,
+          "top": "eyeroll",
+          "confidence": 0.95,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0,
+            "disagree": 0.04,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.96
+          }
+        },
+        "junior_dev": {
+          "applause": 0.07800000000000001,
+          "top": "eyeroll",
+          "confidence": 0.84,
+          "distribution": {
+            "applaud": 0.01,
+            "share": 0,
+            "like": 0.05,
+            "comment": 0.04,
+            "disagree": 0,
+            "ignore": 0.04,
+            "sleep": 0,
+            "eyeroll": 0.86
+          }
+        },
+        "founder": {
+          "applause": 0.002,
+          "top": "eyeroll",
+          "confidence": 0.98,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0,
+            "disagree": 0,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.99
+          }
+        },
+        "investor": {
+          "applause": 0.004,
+          "top": "eyeroll",
+          "confidence": 0.97,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0,
+            "disagree": 0,
+            "ignore": 0.02,
+            "sleep": 0,
+            "eyeroll": 0.98
+          }
+        },
+        "hr_manager": {
+          "applause": 0.068,
+          "top": "eyeroll",
+          "confidence": 0.6,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0,
+            "disagree": 0,
+            "ignore": 0.34,
+            "sleep": 0,
+            "eyeroll": 0.66
+          }
+        },
+        "product_manager": {
+          "applause": 0.0245,
+          "top": "eyeroll",
+          "confidence": 0.96,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0.03,
+            "disagree": 0,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.96
+          }
+        },
+        "designer": {
+          "applause": 0,
+          "top": "eyeroll",
+          "confidence": 1,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 1
+          }
+        },
+        "client": {
+          "applause": 0.018000000000000002,
+          "top": "eyeroll",
+          "confidence": 0.93,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0.02,
+            "comment": 0,
+            "disagree": 0,
+            "ignore": 0.03,
+            "sleep": 0,
+            "eyeroll": 0.95
+          }
+        },
+        "uncle": {
+          "applause": 0.5455,
+          "top": "comment",
+          "confidence": 0.33,
+          "distribution": {
+            "applaud": 0.13,
+            "share": 0.1,
+            "like": 0.01,
+            "comment": 0.41,
+            "disagree": 0,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.34
+          }
+        },
+        "mom": {
+          "applause": 0.7729999999999999,
+          "top": "applaud",
+          "confidence": 0.55,
+          "distribution": {
+            "applaud": 0.61,
+            "share": 0.04,
+            "like": 0.11,
+            "comment": 0.07,
+            "disagree": 0,
+            "ignore": 0.02,
+            "sleep": 0.01,
+            "eyeroll": 0.14
+          }
+        },
+        "coach": {
+          "applause": 0.5535,
+          "top": "eyeroll",
+          "confidence": 0.27,
+          "distribution": {
+            "applaud": 0.33,
+            "share": 0.04,
+            "like": 0.09,
+            "comment": 0.17,
+            "disagree": 0.01,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.35
+          }
+        }
+      },
+      "metrics": {
+        "clarity": 0.49,
+        "cliche": 0.9975,
+        "authenticity": 0.0225,
+        "soundsLikeAi": 0.86,
+        "callToAction": 0.03
+      },
+      "headlines": {
+        "clarity": "Razoável",
+        "authenticity": "Artificial",
+        "cliche": "Puro clichê",
+        "soundsLikeAi": "Sim",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.8633333333333333,
+      "latencyMs": 266
+    },
+    {
+      "id": "vaga-com-chamada",
+      "applause": 43,
+      "personas": {
+        "recruiter": {
+          "applause": 0.7474999999999999,
+          "top": "share",
+          "confidence": 0.52,
+          "distribution": {
+            "applaud": 0,
+            "share": 0.58,
+            "like": 0.12,
+            "comment": 0.09,
+            "disagree": 0.01,
+            "ignore": 0.14,
+            "sleep": 0,
+            "eyeroll": 0.06
+          }
+        },
+        "senior_dev": {
+          "applause": 0.1905,
+          "top": "eyeroll",
+          "confidence": 0.36,
+          "distribution": {
+            "applaud": 0,
+            "share": 0.04,
+            "like": 0.03,
+            "comment": 0.07,
+            "disagree": 0.02,
+            "ignore": 0.4,
+            "sleep": 0,
+            "eyeroll": 0.44
+          }
+        },
+        "junior_dev": {
+          "applause": 0.51,
+          "top": "comment",
+          "confidence": 0.27,
+          "distribution": {
+            "applaud": 0.04,
+            "share": 0.03,
+            "like": 0.18,
+            "comment": 0.36,
+            "disagree": 0.01,
+            "ignore": 0.31,
+            "sleep": 0,
+            "eyeroll": 0.07
+          }
+        },
+        "founder": {
+          "applause": 0.48550000000000004,
+          "top": "ignore",
+          "confidence": 0.27,
+          "distribution": {
+            "applaud": 0.01,
+            "share": 0.25,
+            "like": 0.14,
+            "comment": 0.09,
+            "disagree": 0.01,
+            "ignore": 0.37,
+            "sleep": 0,
+            "eyeroll": 0.13
+          }
+        },
+        "investor": {
+          "applause": 0.1405,
+          "top": "ignore",
+          "confidence": 0.5,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0.01,
+            "comment": 0.03,
+            "disagree": 0.01,
+            "ignore": 0.56,
+            "sleep": 0,
+            "eyeroll": 0.39
+          }
+        },
+        "hr_manager": {
+          "applause": 0.6900000000000001,
+          "top": "share",
+          "confidence": 0.29,
+          "distribution": {
+            "applaud": 0.01,
+            "share": 0.38,
+            "like": 0.12,
+            "comment": 0.28,
+            "disagree": 0.02,
+            "ignore": 0.09,
+            "sleep": 0,
+            "eyeroll": 0.1
+          }
+        },
+        "product_manager": {
+          "applause": 0.29500000000000004,
+          "top": "ignore",
+          "confidence": 0.59,
+          "distribution": {
+            "applaud": 0,
+            "share": 0.05,
+            "like": 0.02,
+            "comment": 0.14,
+            "disagree": 0.01,
+            "ignore": 0.64,
+            "sleep": 0,
+            "eyeroll": 0.14
+          }
+        },
+        "designer": {
+          "applause": 0.3360000000000001,
+          "top": "eyeroll",
+          "confidence": 0.32,
+          "distribution": {
+            "applaud": 0.03,
+            "share": 0.08,
+            "like": 0.17,
+            "comment": 0.12,
+            "disagree": 0.02,
+            "ignore": 0.17,
+            "sleep": 0,
+            "eyeroll": 0.41
+          }
+        },
+        "client": {
+          "applause": 0.485,
+          "top": "ignore",
+          "confidence": 0.22,
+          "distribution": {
+            "applaud": 0.01,
+            "share": 0.24,
+            "like": 0.21,
+            "comment": 0.06,
+            "disagree": 0.01,
+            "ignore": 0.32,
+            "sleep": 0,
+            "eyeroll": 0.15
+          }
+        },
+        "uncle": {
+          "applause": 0.646,
+          "top": "comment",
+          "confidence": 0.4,
+          "distribution": {
+            "applaud": 0.03,
+            "share": 0.24000000000000002,
+            "like": 0,
+            "comment": 0.48,
+            "disagree": 0.03,
+            "ignore": 0.08,
+            "sleep": 0,
+            "eyeroll": 0.14
+          }
+        },
+        "mom": {
+          "applause": 0.894,
+          "top": "applaud",
+          "confidence": 0.52,
+          "distribution": {
+            "applaud": 0.58,
+            "share": 0.2,
+            "like": 0.13,
+            "comment": 0.04,
+            "disagree": 0,
+            "ignore": 0.03,
+            "sleep": 0,
+            "eyeroll": 0.02
+          }
+        },
+        "coach": {
+          "applause": 0.6050000000000001,
+          "top": "share",
+          "confidence": 0.19,
+          "distribution": {
+            "applaud": 0.06,
+            "share": 0.3,
+            "like": 0.05,
+            "comment": 0.22,
+            "disagree": 0.01,
+            "ignore": 0.25,
+            "sleep": 0,
+            "eyeroll": 0.11
+          }
+        }
+      },
+      "metrics": {
+        "clarity": 0.975,
+        "cliche": 0.24,
+        "authenticity": 0.4875,
+        "soundsLikeAi": 0.32,
+        "callToAction": 0.98
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Neutro",
+        "cliche": "Pouco clichê",
+        "soundsLikeAi": "Não",
+        "callToAction": "Sim"
+      },
+      "scoreConfidence": 0.7799999999999999,
+      "latencyMs": 269
+    },
+    {
+      "id": "vaga-sem-chamada",
+      "applause": 37,
+      "personas": {
+        "recruiter": {
+          "applause": 0.592,
+          "top": "share",
+          "confidence": 0.25,
+          "distribution": {
+            "applaud": 0.01,
+            "share": 0.33999999999999997,
+            "like": 0.17,
+            "comment": 0.12,
+            "disagree": 0.01,
+            "ignore": 0.25,
+            "sleep": 0,
+            "eyeroll": 0.1
+          }
+        },
+        "senior_dev": {
+          "applause": 0.167,
+          "top": "ignore",
+          "confidence": 0.38,
+          "distribution": {
+            "applaud": 0,
+            "share": 0.02,
+            "like": 0.02,
+            "comment": 0.06,
+            "disagree": 0.02,
+            "ignore": 0.45,
+            "sleep": 0,
+            "eyeroll": 0.43
+          }
+        },
+        "junior_dev": {
+          "applause": 0.546,
+          "top": "comment",
+          "confidence": 0.36,
+          "distribution": {
+            "applaud": 0.02,
+            "share": 0.02,
+            "like": 0.21,
+            "comment": 0.44,
+            "disagree": 0.01,
+            "ignore": 0.25,
+            "sleep": 0,
+            "eyeroll": 0.05
+          }
+        },
+        "founder": {
+          "applause": 0.336,
+          "top": "ignore",
+          "confidence": 0.29,
+          "distribution": {
+            "applaud": 0.01,
+            "share": 0.12,
+            "like": 0.07,
+            "comment": 0.12,
+            "disagree": 0.01,
+            "ignore": 0.37,
+            "sleep": 0,
+            "eyeroll": 0.3
+          }
+        },
+        "investor": {
+          "applause": 0.129,
+          "top": "ignore",
+          "confidence": 0.49,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0.02,
+            "disagree": 0,
+            "ignore": 0.5700000000000001,
+            "sleep": 0,
+            "eyeroll": 0.41
+          }
+        },
+        "hr_manager": {
+          "applause": 0.6020000000000001,
+          "top": "comment",
+          "confidence": 0.18,
+          "distribution": {
+            "applaud": 0.01,
+            "share": 0.26,
+            "like": 0.16,
+            "comment": 0.28,
+            "disagree": 0.01,
+            "ignore": 0.13,
+            "sleep": 0,
+            "eyeroll": 0.15
+          }
+        },
+        "product_manager": {
+          "applause": 0.2855,
+          "top": "ignore",
+          "confidence": 0.53,
+          "distribution": {
+            "applaud": 0,
+            "share": 0.02,
+            "like": 0.03,
+            "comment": 0.17,
+            "disagree": 0,
+            "ignore": 0.6,
+            "sleep": 0,
+            "eyeroll": 0.18
+          }
+        },
+        "designer": {
+          "applause": 0.197,
+          "top": "eyeroll",
+          "confidence": 0.37,
+          "distribution": {
+            "applaud": 0,
+            "share": 0.03,
+            "like": 0.08,
+            "comment": 0.06,
+            "disagree": 0.01,
+            "ignore": 0.37,
+            "sleep": 0,
+            "eyeroll": 0.45
+          }
+        },
+        "client": {
+          "applause": 0.446,
+          "top": "ignore",
+          "confidence": 0.37,
+          "distribution": {
+            "applaud": 0.01,
+            "share": 0.18,
+            "like": 0.18,
+            "comment": 0.08,
+            "disagree": 0.01,
+            "ignore": 0.44,
+            "sleep": 0,
+            "eyeroll": 0.1
+          }
+        },
+        "uncle": {
+          "applause": 0.6095,
+          "top": "comment",
+          "confidence": 0.47,
+          "distribution": {
+            "applaud": 0.05,
+            "share": 0.13,
+            "like": 0.01,
+            "comment": 0.53,
+            "disagree": 0.02,
+            "ignore": 0.13,
+            "sleep": 0,
+            "eyeroll": 0.13
+          }
+        },
+        "mom": {
+          "applause": 0.8915,
+          "top": "applaud",
+          "confidence": 0.59,
+          "distribution": {
+            "applaud": 0.64,
+            "share": 0.13,
+            "like": 0.13,
+            "comment": 0.05,
+            "disagree": 0,
+            "ignore": 0.03,
+            "sleep": 0,
+            "eyeroll": 0.02
+          }
+        },
+        "coach": {
+          "applause": 0.49250000000000005,
+          "top": "ignore",
+          "confidence": 0.27,
+          "distribution": {
+            "applaud": 0.06,
+            "share": 0.17,
+            "like": 0.08,
+            "comment": 0.19,
+            "disagree": 0.01,
+            "ignore": 0.36,
+            "sleep": 0,
+            "eyeroll": 0.13
+          }
+        }
+      },
+      "metrics": {
+        "clarity": 0.9825,
+        "cliche": 0.2225,
+        "authenticity": 0.4975,
+        "soundsLikeAi": 0.28,
+        "callToAction": 0.07
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Neutro",
+        "cliche": "Original",
+        "soundsLikeAi": "Não",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.73,
+      "latencyMs": 258
+    },
+    {
+      "id": "rodada-de-investimento",
+      "applause": 65,
+      "personas": {
+        "recruiter": {
+          "applause": 0.6954999999999999,
+          "top": "comment",
+          "confidence": 0.32,
+          "distribution": {
+            "applaud": 0.22999999999999995,
+            "share": 0.08999999999999998,
+            "like": 0.08999999999999998,
+            "comment": 0.4099999999999999,
+            "disagree": 0,
+            "ignore": 0.06999999999999999,
+            "sleep": 0,
+            "eyeroll": 0.10999999999999997
+          }
+        },
+        "senior_dev": {
+          "applause": 0.12100000000000001,
+          "top": "eyeroll",
+          "confidence": 0.6,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0.02,
+            "comment": 0.14,
+            "disagree": 0.16,
+            "ignore": 0.02,
+            "sleep": 0,
+            "eyeroll": 0.66
+          }
+        },
+        "junior_dev": {
+          "applause": 0.846,
+          "top": "applaud",
+          "confidence": 0.67,
+          "distribution": {
+            "applaud": 0.7,
+            "share": 0.01,
+            "like": 0.07,
+            "comment": 0.12,
+            "disagree": 0,
+            "ignore": 0.02,
+            "sleep": 0,
+            "eyeroll": 0.08
+          }
+        },
+        "founder": {
+          "applause": 0.8379999999999999,
+          "top": "applaud",
+          "confidence": 0.29,
+          "distribution": {
+            "applaud": 0.36999999999999994,
+            "share": 0.18999999999999995,
+            "like": 0.059999999999999984,
+            "comment": 0.31999999999999995,
+            "disagree": 0.009999999999999998,
+            "ignore": 0.009999999999999998,
+            "sleep": 0,
+            "eyeroll": 0.039999999999999994
+          }
+        },
+        "investor": {
+          "applause": 0.7909999999999999,
+          "top": "comment",
+          "confidence": 0.7,
+          "distribution": {
+            "applaud": 0.14,
+            "share": 0.09,
+            "like": 0.01,
+            "comment": 0.74,
+            "disagree": 0.01,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.01
+          }
+        },
+        "hr_manager": {
+          "applause": 0.553,
+          "top": "comment",
+          "confidence": 0.29,
+          "distribution": {
+            "applaud": 0.17,
+            "share": 0.01,
+            "like": 0.1,
+            "comment": 0.38,
+            "disagree": 0.01,
+            "ignore": 0.14,
+            "sleep": 0,
+            "eyeroll": 0.19
+          }
+        },
+        "product_manager": {
+          "applause": 0.7450000000000001,
+          "top": "comment",
+          "confidence": 0.88,
+          "distribution": {
+            "applaud": 0.060000000000000005,
+            "share": 0.01,
+            "like": 0,
+            "comment": 0.9,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.03
+          }
+        },
+        "designer": {
+          "applause": 0.5955,
+          "top": "applaud",
+          "confidence": 0.3,
+          "distribution": {
+            "applaud": 0.38,
+            "share": 0.05,
+            "like": 0.11,
+            "comment": 0.13,
+            "disagree": 0.02,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.3
+          }
+        },
+        "client": {
+          "applause": 0.6795,
+          "top": "applaud",
+          "confidence": 0.32,
+          "distribution": {
+            "applaud": 0.39999999999999997,
+            "share": 0.05,
+            "like": 0.11,
+            "comment": 0.21,
+            "disagree": 0.03,
+            "ignore": 0.03,
+            "sleep": 0,
+            "eyeroll": 0.17
+          }
+        },
+        "uncle": {
+          "applause": 0.637,
+          "top": "comment",
+          "confidence": 0.37,
+          "distribution": {
+            "applaud": 0.23,
+            "share": 0.06,
+            "like": 0,
+            "comment": 0.46,
+            "disagree": 0.04,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.2
+          }
+        },
+        "mom": {
+          "applause": 0.9660000000000002,
+          "top": "applaud",
+          "confidence": 0.56,
+          "distribution": {
+            "applaud": 0.6100000000000001,
+            "share": 0.29000000000000004,
+            "like": 0.010000000000000002,
+            "comment": 0.08000000000000002,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.010000000000000002
+          }
+        },
+        "coach": {
+          "applause": 0.8330000000000001,
+          "top": "applaud",
+          "confidence": 0.46,
+          "distribution": {
+            "applaud": 0.52,
+            "share": 0.14,
+            "like": 0.01,
+            "comment": 0.22,
+            "disagree": 0.01,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.09
+          }
+        }
+      },
+      "metrics": {
+        "clarity": 0.9525,
+        "cliche": 0.17,
+        "authenticity": 0.405,
+        "soundsLikeAi": 0.35,
+        "callToAction": 0.03
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Pouco autêntico",
+        "cliche": "Pouco clichê",
+        "soundsLikeAi": "Não",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.6233333333333334,
+      "latencyMs": 276
+    },
+    {
+      "id": "aprendizado-de-produto",
+      "applause": 80,
+      "personas": {
+        "recruiter": {
+          "applause": 0.8105,
+          "top": "comment",
+          "confidence": 0.22,
+          "distribution": {
+            "applaud": 0.3,
+            "share": 0.17,
+            "like": 0.17,
+            "comment": 0.31,
+            "disagree": 0,
+            "ignore": 0.03,
+            "sleep": 0,
+            "eyeroll": 0.02
+          }
+        },
+        "senior_dev": {
+          "applause": 0.627,
+          "top": "comment",
+          "confidence": 0.24,
+          "distribution": {
+            "applaud": 0.07,
+            "share": 0.17,
+            "like": 0.21,
+            "comment": 0.34,
+            "disagree": 0.03,
+            "ignore": 0.03,
+            "sleep": 0,
+            "eyeroll": 0.15
+          }
+        },
+        "junior_dev": {
+          "applause": 0.8939999999999999,
+          "top": "applaud",
+          "confidence": 0.52,
+          "distribution": {
+            "applaud": 0.58,
+            "share": 0.09,
+            "like": 0.07,
+            "comment": 0.24,
+            "disagree": 0,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.01
+          }
+        },
+        "founder": {
+          "applause": 0.9355,
+          "top": "share",
+          "confidence": 0.46,
+          "distribution": {
+            "applaud": 0.22,
+            "share": 0.54,
+            "like": 0.03,
+            "comment": 0.21,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0
+          }
+        },
+        "investor": {
+          "applause": 0.7809999999999999,
+          "top": "comment",
+          "confidence": 0.66,
+          "distribution": {
+            "applaud": 0.13,
+            "share": 0.1,
+            "like": 0.04,
+            "comment": 0.7,
+            "disagree": 0,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.02
+          }
+        },
+        "hr_manager": {
+          "applause": 0.5365000000000001,
+          "top": "ignore",
+          "confidence": 0.19,
+          "distribution": {
+            "applaud": 0.15000000000000002,
+            "share": 0.04000000000000001,
+            "like": 0.18000000000000002,
+            "comment": 0.24000000000000002,
+            "disagree": 0.010000000000000002,
+            "ignore": 0.29000000000000004,
+            "sleep": 0.010000000000000002,
+            "eyeroll": 0.08000000000000002
+          }
+        },
+        "product_manager": {
+          "applause": 0.8425,
+          "top": "comment",
+          "confidence": 0.57,
+          "distribution": {
+            "applaud": 0.05,
+            "share": 0.32,
+            "like": 0,
+            "comment": 0.63,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0
+          }
+        },
+        "designer": {
+          "applause": 0.9015,
+          "top": "share",
+          "confidence": 0.31,
+          "distribution": {
+            "applaud": 0.29,
+            "share": 0.4,
+            "like": 0.04,
+            "comment": 0.25,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.02
+          }
+        },
+        "client": {
+          "applause": 0.911,
+          "top": "share",
+          "confidence": 0.26,
+          "distribution": {
+            "applaud": 0.34,
+            "share": 0.37,
+            "like": 0.06,
+            "comment": 0.22,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.01
+          }
+        },
+        "uncle": {
+          "applause": 0.7747474747474749,
+          "top": "comment",
+          "confidence": 0.47,
+          "distribution": {
+            "applaud": 0.19191919191919193,
+            "share": 0.17171717171717174,
+            "like": 0,
+            "comment": 0.5454545454545455,
+            "disagree": 0.010101010101010102,
+            "ignore": 0.010101010101010102,
+            "sleep": 0,
+            "eyeroll": 0.07070707070707072
+          }
+        },
+        "mom": {
+          "applause": 0.9704999999999999,
+          "top": "applaud",
+          "confidence": 0.66,
+          "distribution": {
+            "applaud": 0.71,
+            "share": 0.23,
+            "like": 0.01,
+            "comment": 0.03,
+            "disagree": 0,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.01
+          }
+        },
+        "coach": {
+          "applause": 0.6729999999999999,
+          "top": "applaud",
+          "confidence": 0.21,
+          "distribution": {
+            "applaud": 0.31,
+            "share": 0.13,
+            "like": 0.06,
+            "comment": 0.24,
+            "disagree": 0.01,
+            "ignore": 0.08,
+            "sleep": 0.02,
+            "eyeroll": 0.15
+          }
+        }
+      },
+      "metrics": {
+        "clarity": 0.965,
+        "cliche": 0.1225,
+        "authenticity": 0.76,
+        "soundsLikeAi": 0.25,
+        "callToAction": 0.03
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Autêntico",
+        "cliche": "Original",
+        "soundsLikeAi": "Não",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.7599999999999999,
+      "latencyMs": 284
+    },
+    {
+      "id": "acessibilidade",
+      "applause": 83,
+      "personas": {
+        "recruiter": {
+          "applause": 0.8594999999999999,
+          "top": "applaud",
+          "confidence": 0.26,
+          "distribution": {
+            "applaud": 0.36,
+            "share": 0.25,
+            "like": 0.15,
+            "comment": 0.21,
+            "disagree": 0,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.02
+          }
+        },
+        "senior_dev": {
+          "applause": 0.376,
+          "top": "eyeroll",
+          "confidence": 0.39,
+          "distribution": {
+            "applaud": 0.02,
+            "share": 0.03,
+            "like": 0.09,
+            "comment": 0.36,
+            "disagree": 0.03,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.46
+          }
+        },
+        "junior_dev": {
+          "applause": 0.9215,
+          "top": "applaud",
+          "confidence": 0.39,
+          "distribution": {
+            "applaud": 0.47,
+            "share": 0.24,
+            "like": 0.04,
+            "comment": 0.25,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0
+          }
+        },
+        "founder": {
+          "applause": 0.9125,
+          "top": "share",
+          "confidence": 0.45,
+          "distribution": {
+            "applaud": 0.19,
+            "share": 0.52,
+            "like": 0.05,
+            "comment": 0.23,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.01
+          }
+        },
+        "investor": {
+          "applause": 0.796,
+          "top": "comment",
+          "confidence": 0.5,
+          "distribution": {
+            "applaud": 0.12,
+            "share": 0.23,
+            "like": 0.04,
+            "comment": 0.56,
+            "disagree": 0.01,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.03
+          }
+        },
+        "hr_manager": {
+          "applause": 0.8840000000000001,
+          "top": "applaud",
+          "confidence": 0.39,
+          "distribution": {
+            "applaud": 0.46,
+            "share": 0.17,
+            "like": 0.07,
+            "comment": 0.28,
+            "disagree": 0,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.01
+          }
+        },
+        "product_manager": {
+          "applause": 0.815,
+          "top": "comment",
+          "confidence": 0.69,
+          "distribution": {
+            "applaud": 0.05,
+            "share": 0.21,
+            "like": 0,
+            "comment": 0.74,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0
+          }
+        },
+        "designer": {
+          "applause": 0.936,
+          "top": "share",
+          "confidence": 0.39,
+          "distribution": {
+            "applaud": 0.33,
+            "share": 0.48,
+            "like": 0.01,
+            "comment": 0.16,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.02
+          }
+        },
+        "client": {
+          "applause": 0.9440000000000001,
+          "top": "share",
+          "confidence": 0.47,
+          "distribution": {
+            "applaud": 0.29,
+            "share": 0.54,
+            "like": 0.04,
+            "comment": 0.12,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.01
+          }
+        },
+        "uncle": {
+          "applause": 0.8530000000000001,
+          "top": "comment",
+          "confidence": 0.31,
+          "distribution": {
+            "applaud": 0.28,
+            "share": 0.27999999999999997,
+            "like": 0.01,
+            "comment": 0.38,
+            "disagree": 0.01,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.03
+          }
+        },
+        "mom": {
+          "applause": 0.9858585858585858,
+          "top": "applaud",
+          "confidence": 0.62,
+          "distribution": {
+            "applaud": 0.6767676767676767,
+            "share": 0.2727272727272727,
+            "like": 0.0101010101010101,
+            "comment": 0.0404040404040404,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0
+          }
+        },
+        "coach": {
+          "applause": 0.8239999999999998,
+          "top": "applaud",
+          "confidence": 0.38,
+          "distribution": {
+            "applaud": 0.4499999999999999,
+            "share": 0.19999999999999996,
+            "like": 0.029999999999999992,
+            "comment": 0.19999999999999996,
+            "disagree": 0.009999999999999998,
+            "ignore": 0.029999999999999992,
+            "sleep": 0,
+            "eyeroll": 0.07999999999999999
+          }
+        }
+      },
+      "metrics": {
+        "clarity": 0.975,
+        "cliche": 0.3625,
+        "authenticity": 0.55,
+        "soundsLikeAi": 0.29,
+        "callToAction": 0.03
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Autêntico",
+        "cliche": "Pouco clichê",
+        "soundsLikeAi": "Não",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.62,
+      "latencyMs": 256
+    },
+    {
+      "id": "semana-de-quatro-dias",
+      "applause": 85,
+      "personas": {
+        "recruiter": {
+          "applause": 0.8335000000000001,
+          "top": "share",
+          "confidence": 0.3,
+          "distribution": {
+            "applaud": 0.2,
+            "share": 0.39,
+            "like": 0.08,
+            "comment": 0.25,
+            "disagree": 0,
+            "ignore": 0.04,
+            "sleep": 0,
+            "eyeroll": 0.04
+          }
+        },
+        "senior_dev": {
+          "applause": 0.5695,
+          "top": "comment",
+          "confidence": 0.42,
+          "distribution": {
+            "applaud": 0.01,
+            "share": 0.13,
+            "like": 0.1,
+            "comment": 0.49,
+            "disagree": 0.09,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.17
+          }
+        },
+        "junior_dev": {
+          "applause": 0.9005050505050506,
+          "top": "applaud",
+          "confidence": 0.48,
+          "distribution": {
+            "applaud": 0.5555555555555556,
+            "share": 0.14141414141414144,
+            "like": 0.07070707070707072,
+            "comment": 0.21212121212121213,
+            "disagree": 0,
+            "ignore": 0.010101010101010102,
+            "sleep": 0,
+            "eyeroll": 0.010101010101010102
+          }
+        },
+        "founder": {
+          "applause": 0.9095,
+          "top": "share",
+          "confidence": 0.52,
+          "distribution": {
+            "applaud": 0.09,
+            "share": 0.59,
+            "like": 0.02,
+            "comment": 0.29,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.01
+          }
+        },
+        "investor": {
+          "applause": 0.7785000000000001,
+          "top": "comment",
+          "confidence": 0.57,
+          "distribution": {
+            "applaud": 0.1,
+            "share": 0.19,
+            "like": 0.02,
+            "comment": 0.63,
+            "disagree": 0.01,
+            "ignore": 0.02,
+            "sleep": 0,
+            "eyeroll": 0.03
+          }
+        },
+        "hr_manager": {
+          "applause": 0.965,
+          "top": "share",
+          "confidence": 0.72,
+          "distribution": {
+            "applaud": 0.1,
+            "share": 0.76,
+            "like": 0,
+            "comment": 0.14,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0
+          }
+        },
+        "product_manager": {
+          "applause": 0.8825000000000001,
+          "top": "share",
+          "confidence": 0.43,
+          "distribution": {
+            "applaud": 0.02,
+            "share": 0.51,
+            "like": 0,
+            "comment": 0.47,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0
+          }
+        },
+        "designer": {
+          "applause": 0.909,
+          "top": "share",
+          "confidence": 0.42,
+          "distribution": {
+            "applaud": 0.26,
+            "share": 0.49,
+            "like": 0.04,
+            "comment": 0.18,
+            "disagree": 0.01,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.02
+          }
+        },
+        "client": {
+          "applause": 0.9045000000000001,
+          "top": "share",
+          "confidence": 0.46,
+          "distribution": {
+            "applaud": 0.16,
+            "share": 0.53,
+            "like": 0.02,
+            "comment": 0.27,
+            "disagree": 0.01,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.01
+          }
+        },
+        "uncle": {
+          "applause": 0.7645,
+          "top": "comment",
+          "confidence": 0.49,
+          "distribution": {
+            "applaud": 0.13,
+            "share": 0.22,
+            "like": 0,
+            "comment": 0.55,
+            "disagree": 0.03,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.06
+          }
+        },
+        "mom": {
+          "applause": 0.9884999999999999,
+          "top": "applaud",
+          "confidence": 0.75,
+          "distribution": {
+            "applaud": 0.78,
+            "share": 0.18,
+            "like": 0.01,
+            "comment": 0.03,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0
+          }
+        },
+        "coach": {
+          "applause": 0.74,
+          "top": "applaud",
+          "confidence": 0.19,
+          "distribution": {
+            "applaud": 0.29,
+            "share": 0.27,
+            "like": 0.02,
+            "comment": 0.21,
+            "disagree": 0.02,
+            "ignore": 0.05,
+            "sleep": 0.01,
+            "eyeroll": 0.13
+          }
+        }
+      },
+      "metrics": {
+        "clarity": 0.94,
+        "cliche": 0.135,
+        "authenticity": 0.68,
+        "soundsLikeAi": 0.23,
+        "callToAction": 0.87
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Autêntico",
+        "cliche": "Original",
+        "soundsLikeAi": "Não",
+        "callToAction": "Sim"
+      },
+      "scoreConfidence": 0.6766666666666667,
+      "latencyMs": 265
+    },
+    {
+      "id": "primeiro-emprego",
+      "applause": 61,
+      "personas": {
+        "recruiter": {
+          "applause": 0.48450000000000004,
+          "top": "eyeroll",
+          "confidence": 0.24,
+          "distribution": {
+            "applaud": 0.18,
+            "share": 0.03,
+            "like": 0.14,
+            "comment": 0.23,
+            "disagree": 0.01,
+            "ignore": 0.09,
+            "sleep": 0,
+            "eyeroll": 0.32
+          }
+        },
+        "senior_dev": {
+          "applause": 0.16249999999999998,
+          "top": "eyeroll",
+          "confidence": 0.69,
+          "distribution": {
+            "applaud": 0,
+            "share": 0.01,
+            "like": 0.06,
+            "comment": 0.15,
+            "disagree": 0.03,
+            "ignore": 0.02,
+            "sleep": 0,
+            "eyeroll": 0.73
+          }
+        },
+        "junior_dev": {
+          "applause": 0.8485,
+          "top": "comment",
+          "confidence": 0.52,
+          "distribution": {
+            "applaud": 0.24,
+            "share": 0.16,
+            "like": 0.01,
+            "comment": 0.59,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0
+          }
+        },
+        "founder": {
+          "applause": 0.6400000000000001,
+          "top": "comment",
+          "confidence": 0.26,
+          "distribution": {
+            "applaud": 0.19,
+            "share": 0.1,
+            "like": 0.12,
+            "comment": 0.36,
+            "disagree": 0.01,
+            "ignore": 0.04,
+            "sleep": 0,
+            "eyeroll": 0.18
+          }
+        },
+        "investor": {
+          "applause": 0.2675,
+          "top": "eyeroll",
+          "confidence": 0.39,
+          "distribution": {
+            "applaud": 0.05,
+            "share": 0.01,
+            "like": 0.11,
+            "comment": 0.13,
+            "disagree": 0.01,
+            "ignore": 0.22,
+            "sleep": 0,
+            "eyeroll": 0.47
+          }
+        },
+        "hr_manager": {
+          "applause": 0.906,
+          "top": "applaud",
+          "confidence": 0.37,
+          "distribution": {
+            "applaud": 0.46,
+            "share": 0.2,
+            "like": 0.01,
+            "comment": 0.32,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.01
+          }
+        },
+        "product_manager": {
+          "applause": 0.776,
+          "top": "comment",
+          "confidence": 0.82,
+          "distribution": {
+            "applaud": 0.07,
+            "share": 0.07,
+            "like": 0.01,
+            "comment": 0.84,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.01
+          }
+        },
+        "designer": {
+          "applause": 0.7189999999999999,
+          "top": "applaud",
+          "confidence": 0.26,
+          "distribution": {
+            "applaud": 0.35,
+            "share": 0.1,
+            "like": 0.07,
+            "comment": 0.3,
+            "disagree": 0.01,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.16
+          }
+        },
+        "client": {
+          "applause": 0.659,
+          "top": "applaud",
+          "confidence": 0.21,
+          "distribution": {
+            "applaud": 0.31,
+            "share": 0.06,
+            "like": 0.2,
+            "comment": 0.22,
+            "disagree": 0.01,
+            "ignore": 0.02,
+            "sleep": 0,
+            "eyeroll": 0.18
+          }
+        },
+        "uncle": {
+          "applause": 0.7875,
+          "top": "comment",
+          "confidence": 0.55,
+          "distribution": {
+            "applaud": 0.15,
+            "share": 0.18,
+            "like": 0,
+            "comment": 0.61,
+            "disagree": 0.01,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.05
+          }
+        },
+        "mom": {
+          "applause": 0.9875,
+          "top": "applaud",
+          "confidence": 0.73,
+          "distribution": {
+            "applaud": 0.78,
+            "share": 0.17,
+            "like": 0,
+            "comment": 0.05,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0
+          }
+        },
+        "coach": {
+          "applause": 0.8180000000000001,
+          "top": "applaud",
+          "confidence": 0.27,
+          "distribution": {
+            "applaud": 0.36,
+            "share": 0.24,
+            "like": 0.01,
+            "comment": 0.28,
+            "disagree": 0.01,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.09
+          }
+        }
+      },
+      "metrics": {
+        "clarity": 0.9825,
+        "cliche": 0.415,
+        "authenticity": 0.6975,
+        "soundsLikeAi": 0.31,
+        "callToAction": 0.64
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Autêntico",
+        "cliche": "Algo clichê",
+        "soundsLikeAi": "Não",
+        "callToAction": "Sim"
+      },
+      "scoreConfidence": 0.7799999999999999,
+      "latencyMs": 258
+    },
+    {
+      "id": "certificacao",
+      "applause": 63,
+      "personas": {
+        "recruiter": {
+          "applause": 0.6305000000000001,
+          "top": "comment",
+          "confidence": 0.29,
+          "distribution": {
+            "applaud": 0.14,
+            "share": 0.04,
+            "like": 0.24,
+            "comment": 0.39,
+            "disagree": 0,
+            "ignore": 0.07,
+            "sleep": 0,
+            "eyeroll": 0.12
+          }
+        },
+        "senior_dev": {
+          "applause": 0.23950000000000002,
+          "top": "eyeroll",
+          "confidence": 0.58,
+          "distribution": {
+            "applaud": 0.01,
+            "share": 0.03,
+            "like": 0.05,
+            "comment": 0.21,
+            "disagree": 0.01,
+            "ignore": 0.06,
+            "sleep": 0,
+            "eyeroll": 0.63
+          }
+        },
+        "junior_dev": {
+          "applause": 0.8594999999999999,
+          "top": "comment",
+          "confidence": 0.45,
+          "distribution": {
+            "applaud": 0.24,
+            "share": 0.21,
+            "like": 0.02,
+            "comment": 0.53,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0
+          }
+        },
+        "founder": {
+          "applause": 0.7190000000000001,
+          "top": "comment",
+          "confidence": 0.19,
+          "distribution": {
+            "applaud": 0.16,
+            "share": 0.25,
+            "like": 0.11,
+            "comment": 0.3,
+            "disagree": 0,
+            "ignore": 0.09,
+            "sleep": 0,
+            "eyeroll": 0.09
+          }
+        },
+        "investor": {
+          "applause": 0.186,
+          "top": "ignore",
+          "confidence": 0.36,
+          "distribution": {
+            "applaud": 0.02,
+            "share": 0.01,
+            "like": 0.06,
+            "comment": 0.04,
+            "disagree": 0,
+            "ignore": 0.45,
+            "sleep": 0,
+            "eyeroll": 0.42
+          }
+        },
+        "hr_manager": {
+          "applause": 0.9059999999999999,
+          "top": "applaud",
+          "confidence": 0.51,
+          "distribution": {
+            "applaud": 0.57,
+            "share": 0.13,
+            "like": 0.04,
+            "comment": 0.24,
+            "disagree": 0,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.01
+          }
+        },
+        "product_manager": {
+          "applause": 0.788,
+          "top": "comment",
+          "confidence": 0.73,
+          "distribution": {
+            "applaud": 0.03,
+            "share": 0.18,
+            "like": 0.01,
+            "comment": 0.76,
+            "disagree": 0,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.01
+          }
+        },
+        "designer": {
+          "applause": 0.677,
+          "top": "comment",
+          "confidence": 0.2,
+          "distribution": {
+            "applaud": 0.21,
+            "share": 0.16,
+            "like": 0.13,
+            "comment": 0.3,
+            "disagree": 0.01,
+            "ignore": 0.02,
+            "sleep": 0,
+            "eyeroll": 0.17
+          }
+        },
+        "client": {
+          "applause": 0.6625000000000001,
+          "top": "comment",
+          "confidence": 0.17,
+          "distribution": {
+            "applaud": 0.23,
+            "share": 0.08,
+            "like": 0.23,
+            "comment": 0.27,
+            "disagree": 0.01,
+            "ignore": 0.06,
+            "sleep": 0,
+            "eyeroll": 0.12
+          }
+        },
+        "uncle": {
+          "applause": 0.7645,
+          "top": "comment",
+          "confidence": 0.58,
+          "distribution": {
+            "applaud": 0.22999999999999998,
+            "share": 0.06,
+            "like": 0,
+            "comment": 0.63,
+            "disagree": 0.01,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.06
+          }
+        },
+        "mom": {
+          "applause": 0.976,
+          "top": "applaud",
+          "confidence": 0.72,
+          "distribution": {
+            "applaud": 0.77,
+            "share": 0.14,
+            "like": 0.01,
+            "comment": 0.08,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0
+          }
+        },
+        "coach": {
+          "applause": 0.8654999999999999,
+          "top": "applaud",
+          "confidence": 0.44,
+          "distribution": {
+            "applaud": 0.52,
+            "share": 0.12,
+            "like": 0.01,
+            "comment": 0.29,
+            "disagree": 0,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.05
+          }
+        }
+      },
+      "metrics": {
+        "clarity": 0.97,
+        "cliche": 0.1825,
+        "authenticity": 0.7125,
+        "soundsLikeAi": 0.24,
+        "callToAction": 0.6
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Autêntico",
+        "cliche": "Pouco clichê",
+        "soundsLikeAi": "Não",
+        "callToAction": "Sim"
+      },
+      "scoreConfidence": 0.7999999999999999,
+      "latencyMs": 300
+    },
+    {
+      "id": "caso-de-cliente",
+      "applause": 75,
+      "personas": {
+        "recruiter": {
+          "applause": 0.7295,
+          "top": "comment",
+          "confidence": 0.41,
+          "distribution": {
+            "applaud": 0.13,
+            "share": 0.11,
+            "like": 0.19,
+            "comment": 0.49,
+            "disagree": 0,
+            "ignore": 0.04,
+            "sleep": 0,
+            "eyeroll": 0.04
+          }
+        },
+        "senior_dev": {
+          "applause": 0.3975,
+          "top": "comment",
+          "confidence": 0.38,
+          "distribution": {
+            "applaud": 0,
+            "share": 0.02,
+            "like": 0.06,
+            "comment": 0.45,
+            "disagree": 0.06,
+            "ignore": 0.02,
+            "sleep": 0,
+            "eyeroll": 0.39
+          }
+        },
+        "junior_dev": {
+          "applause": 0.8305,
+          "top": "comment",
+          "confidence": 0.44,
+          "distribution": {
+            "applaud": 0.35,
+            "share": 0.06,
+            "like": 0.06,
+            "comment": 0.51,
+            "disagree": 0,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.01
+          }
+        },
+        "founder": {
+          "applause": 0.8830000000000001,
+          "top": "share",
+          "confidence": 0.37,
+          "distribution": {
+            "applaud": 0.13,
+            "share": 0.45,
+            "like": 0.03,
+            "comment": 0.38,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.01
+          }
+        },
+        "investor": {
+          "applause": 0.7829999999999999,
+          "top": "comment",
+          "confidence": 0.75,
+          "distribution": {
+            "applaud": 0.1,
+            "share": 0.09,
+            "like": 0.01,
+            "comment": 0.78,
+            "disagree": 0,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.01
+          }
+        },
+        "hr_manager": {
+          "applause": 0.6815,
+          "top": "comment",
+          "confidence": 0.54,
+          "distribution": {
+            "applaud": 0.1,
+            "share": 0.02,
+            "like": 0.14,
+            "comment": 0.61,
+            "disagree": 0,
+            "ignore": 0.1,
+            "sleep": 0,
+            "eyeroll": 0.03
+          }
+        },
+        "product_manager": {
+          "applause": 0.7825,
+          "top": "comment",
+          "confidence": 0.84,
+          "distribution": {
+            "applaud": 0.02,
+            "share": 0.11,
+            "like": 0,
+            "comment": 0.87,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0
+          }
+        },
+        "designer": {
+          "applause": 0.8220000000000001,
+          "top": "comment",
+          "confidence": 0.22,
+          "distribution": {
+            "applaud": 0.25,
+            "share": 0.27,
+            "like": 0.1,
+            "comment": 0.32,
+            "disagree": 0.01,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.04
+          }
+        },
+        "client": {
+          "applause": 0.8440000000000001,
+          "top": "comment",
+          "confidence": 0.44,
+          "distribution": {
+            "applaud": 0.15,
+            "share": 0.28,
+            "like": 0.04,
+            "comment": 0.52,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.01
+          }
+        },
+        "uncle": {
+          "applause": 0.7045,
+          "top": "comment",
+          "confidence": 0.56,
+          "distribution": {
+            "applaud": 0.07,
+            "share": 0.16,
+            "like": 0,
+            "comment": 0.63,
+            "disagree": 0.02,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.11
+          }
+        },
+        "mom": {
+          "applause": 0.9565,
+          "top": "applaud",
+          "confidence": 0.64,
+          "distribution": {
+            "applaud": 0.68,
+            "share": 0.21,
+            "like": 0.02,
+            "comment": 0.07,
+            "disagree": 0,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.01
+          }
+        },
+        "coach": {
+          "applause": 0.7344999999999998,
+          "top": "applaud",
+          "confidence": 0.21,
+          "distribution": {
+            "applaud": 0.30999999999999994,
+            "share": 0.16999999999999998,
+            "like": 0.04999999999999999,
+            "comment": 0.27999999999999997,
+            "disagree": 0.009999999999999998,
+            "ignore": 0.06999999999999999,
+            "sleep": 0.009999999999999998,
+            "eyeroll": 0.09999999999999998
+          }
+        }
+      },
+      "metrics": {
+        "clarity": 0.9625,
+        "cliche": 0.155,
+        "authenticity": 0.6975,
+        "soundsLikeAi": 0.34,
+        "callToAction": 0.03
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Autêntico",
+        "cliche": "Pouco clichê",
+        "soundsLikeAi": "Não",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.7566666666666667,
+      "latencyMs": 307
+    },
+    {
+      "id": "curso-milagroso",
+      "applause": 1,
+      "personas": {
+        "recruiter": {
+          "applause": 0.006,
+          "top": "eyeroll",
+          "confidence": 0.92,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0,
+            "disagree": 0.04,
+            "ignore": 0.03,
+            "sleep": 0,
+            "eyeroll": 0.93
+          }
+        },
+        "senior_dev": {
+          "applause": 0.002,
+          "top": "eyeroll",
+          "confidence": 0.64,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0,
+            "disagree": 0.31,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.68
+          }
+        },
+        "junior_dev": {
+          "applause": 0.04150000000000001,
+          "top": "eyeroll",
+          "confidence": 0.87,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0.05,
+            "disagree": 0.05,
+            "ignore": 0.02,
+            "sleep": 0,
+            "eyeroll": 0.88
+          }
+        },
+        "founder": {
+          "applause": 0.004,
+          "top": "eyeroll",
+          "confidence": 0.84,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0,
+            "disagree": 0.12,
+            "ignore": 0.02,
+            "sleep": 0,
+            "eyeroll": 0.86
+          }
+        },
+        "investor": {
+          "applause": 0.002,
+          "top": "eyeroll",
+          "confidence": 0.81,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0,
+            "disagree": 0.16,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.83
+          }
+        },
+        "hr_manager": {
+          "applause": 0,
+          "top": "eyeroll",
+          "confidence": 0.83,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0,
+            "disagree": 0.15,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.85
+          }
+        },
+        "product_manager": {
+          "applause": 0.002,
+          "top": "eyeroll",
+          "confidence": 0.83,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0,
+            "disagree": 0.14,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.85
+          }
+        },
+        "designer": {
+          "applause": 0,
+          "top": "eyeroll",
+          "confidence": 0.93,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0,
+            "disagree": 0.06,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.94
+          }
+        },
+        "client": {
+          "applause": 0.002,
+          "top": "eyeroll",
+          "confidence": 0.73,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0,
+            "disagree": 0.23,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.76
+          }
+        },
+        "uncle": {
+          "applause": 0.117,
+          "top": "eyeroll",
+          "confidence": 0.47,
+          "distribution": {
+            "applaud": 0,
+            "share": 0.01,
+            "like": 0,
+            "comment": 0.14,
+            "disagree": 0.3,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.54
+          }
+        },
+        "mom": {
+          "applause": 0.2475,
+          "top": "eyeroll",
+          "confidence": 0.53,
+          "distribution": {
+            "applaud": 0.2,
+            "share": 0.02,
+            "like": 0.03,
+            "comment": 0.01,
+            "disagree": 0.14,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.59
+          }
+        },
+        "coach": {
+          "applause": 0.0095,
+          "top": "eyeroll",
+          "confidence": 0.8,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0.01,
+            "disagree": 0.15,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.83
+          }
+        }
+      },
+      "metrics": {
+        "clarity": 0.89,
+        "cliche": 0.9975,
+        "authenticity": 0.0025,
+        "soundsLikeAi": 0.56,
+        "callToAction": 0.98
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Artificial",
+        "cliche": "Puro clichê",
+        "soundsLikeAi": "Sim",
+        "callToAction": "Sim"
+      },
+      "scoreConfidence": 0.8700000000000001,
+      "latencyMs": 256
+    },
+    {
+      "id": "opiniao-arrogante",
+      "applause": 1,
+      "personas": {
+        "recruiter": {
+          "applause": 0.002,
+          "top": "disagree",
+          "confidence": 0.52,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0,
+            "disagree": 0.58,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.41
+          }
+        },
+        "senior_dev": {
+          "applause": 0.017,
+          "top": "disagree",
+          "confidence": 0.52,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0.02,
+            "disagree": 0.57,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.4
+          }
+        },
+        "junior_dev": {
+          "applause": 0.0095,
+          "top": "disagree",
+          "confidence": 0.75,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0.01,
+            "disagree": 0.78,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.2
+          }
+        },
+        "founder": {
+          "applause": 0.0095,
+          "top": "disagree",
+          "confidence": 0.62,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0.01,
+            "disagree": 0.67,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.31
+          }
+        },
+        "investor": {
+          "applause": 0.004,
+          "top": "disagree",
+          "confidence": 0.43,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0,
+            "disagree": 0.51,
+            "ignore": 0.02,
+            "sleep": 0,
+            "eyeroll": 0.47
+          }
+        },
+        "hr_manager": {
+          "applause": 0.0075,
+          "top": "disagree",
+          "confidence": 0.81,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0.01,
+            "disagree": 0.84,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.15
+          }
+        },
+        "product_manager": {
+          "applause": 0.0225,
+          "top": "disagree",
+          "confidence": 0.67,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0.03,
+            "disagree": 0.72,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.25
+          }
+        },
+        "designer": {
+          "applause": 0,
+          "top": "eyeroll",
+          "confidence": 0.58,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0,
+            "disagree": 0.36,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.64
+          }
+        },
+        "client": {
+          "applause": 0,
+          "top": "disagree",
+          "confidence": 0.81,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0,
+            "disagree": 0.84,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.16
+          }
+        },
+        "uncle": {
+          "applause": 0.4195,
+          "top": "comment",
+          "confidence": 0.32,
+          "distribution": {
+            "applaud": 0.05,
+            "share": 0.06,
+            "like": 0,
+            "comment": 0.41,
+            "disagree": 0.38,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.09
+          }
+        },
+        "mom": {
+          "applause": 0.17300000000000004,
+          "top": "disagree",
+          "confidence": 0.54,
+          "distribution": {
+            "applaud": 0.14,
+            "share": 0.01,
+            "like": 0.01,
+            "comment": 0.02,
+            "disagree": 0.6,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.21
+          }
+        },
+        "coach": {
+          "applause": 0.192,
+          "top": "disagree",
+          "confidence": 0.37,
+          "distribution": {
+            "applaud": 0.06,
+            "share": 0.03,
+            "like": 0.01,
+            "comment": 0.12,
+            "disagree": 0.45,
+            "ignore": 0.03,
+            "sleep": 0,
+            "eyeroll": 0.3
+          }
+        }
+      },
+      "metrics": {
+        "clarity": 0.9,
+        "cliche": 0.9375,
+        "authenticity": 0.045,
+        "soundsLikeAi": 0.46,
+        "callToAction": 0.04
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Artificial",
+        "cliche": "Puro clichê",
+        "soundsLikeAi": "Não",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.77,
+      "latencyMs": 291
+    },
+    {
+      "id": "bom-dia-generico",
+      "applause": 8,
+      "personas": {
+        "recruiter": {
+          "applause": 0.064,
+          "top": "eyeroll",
+          "confidence": 0.62,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0,
+            "disagree": 0,
+            "ignore": 0.32,
+            "sleep": 0,
+            "eyeroll": 0.68
+          }
+        },
+        "senior_dev": {
+          "applause": 0.002,
+          "top": "eyeroll",
+          "confidence": 0.93,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0,
+            "disagree": 0.05,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.94
+          }
+        },
+        "junior_dev": {
+          "applause": 0.3095,
+          "top": "eyeroll",
+          "confidence": 0.47,
+          "distribution": {
+            "applaud": 0.13,
+            "share": 0,
+            "like": 0.22,
+            "comment": 0.05,
+            "disagree": 0,
+            "ignore": 0.05,
+            "sleep": 0,
+            "eyeroll": 0.55
+          }
+        },
+        "founder": {
+          "applause": 0.018,
+          "top": "eyeroll",
+          "confidence": 0.89,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0,
+            "disagree": 0,
+            "ignore": 0.09,
+            "sleep": 0,
+            "eyeroll": 0.91
+          }
+        },
+        "investor": {
+          "applause": 0.010000000000000002,
+          "top": "eyeroll",
+          "confidence": 0.94,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0,
+            "disagree": 0,
+            "ignore": 0.05,
+            "sleep": 0,
+            "eyeroll": 0.95
+          }
+        },
+        "hr_manager": {
+          "applause": 0.164,
+          "top": "eyeroll",
+          "confidence": 0.7,
+          "distribution": {
+            "applaud": 0.04,
+            "share": 0,
+            "like": 0.14,
+            "comment": 0.04,
+            "disagree": 0,
+            "ignore": 0.05,
+            "sleep": 0,
+            "eyeroll": 0.73
+          }
+        },
+        "product_manager": {
+          "applause": 0.0375,
+          "top": "eyeroll",
+          "confidence": 0.83,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0.01,
+            "comment": 0.01,
+            "disagree": 0,
+            "ignore": 0.12,
+            "sleep": 0,
+            "eyeroll": 0.86
+          }
+        },
+        "designer": {
+          "applause": 0,
+          "top": "eyeroll",
+          "confidence": 0.99,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 1
+          }
+        },
+        "client": {
+          "applause": 0.08600000000000001,
+          "top": "eyeroll",
+          "confidence": 0.75,
+          "distribution": {
+            "applaud": 0.01,
+            "share": 0,
+            "like": 0.09,
+            "comment": 0,
+            "disagree": 0,
+            "ignore": 0.11,
+            "sleep": 0,
+            "eyeroll": 0.79
+          }
+        },
+        "uncle": {
+          "applause": 0.6355000000000001,
+          "top": "comment",
+          "confidence": 0.5,
+          "distribution": {
+            "applaud": 0.15,
+            "share": 0.05,
+            "like": 0.01,
+            "comment": 0.5700000000000001,
+            "disagree": 0,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.21
+          }
+        },
+        "mom": {
+          "applause": 0.887,
+          "top": "applaud",
+          "confidence": 0.69,
+          "distribution": {
+            "applaud": 0.72,
+            "share": 0.03,
+            "like": 0.1,
+            "comment": 0.1,
+            "disagree": 0,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.04
+          }
+        },
+        "coach": {
+          "applause": 0.7145,
+          "top": "applaud",
+          "confidence": 0.28,
+          "distribution": {
+            "applaud": 0.38,
+            "share": 0.08,
+            "like": 0.13,
+            "comment": 0.23,
+            "disagree": 0,
+            "ignore": 0.02,
+            "sleep": 0,
+            "eyeroll": 0.16
+          }
+        }
+      },
+      "metrics": {
+        "clarity": 0.9375,
+        "cliche": 1,
+        "authenticity": 0.075,
+        "soundsLikeAi": 0.52,
+        "callToAction": 0.04
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Artificial",
+        "cliche": "Puro clichê",
+        "soundsLikeAi": "Sim",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.8466666666666667,
+      "latencyMs": 255
+    },
+    {
+      "id": "licao-do-motorista",
+      "applause": 20,
+      "personas": {
+        "recruiter": {
+          "applause": 0.028000000000000004,
+          "top": "eyeroll",
+          "confidence": 0.82,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0.01,
+            "comment": 0,
+            "disagree": 0.02,
+            "ignore": 0.11,
+            "sleep": 0,
+            "eyeroll": 0.86
+          }
+        },
+        "senior_dev": {
+          "applause": 0,
+          "top": "eyeroll",
+          "confidence": 0.89,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0,
+            "disagree": 0.09,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.91
+          }
+        },
+        "junior_dev": {
+          "applause": 0.5750000000000001,
+          "top": "applaud",
+          "confidence": 0.24,
+          "distribution": {
+            "applaud": 0.34,
+            "share": 0.02,
+            "like": 0.13,
+            "comment": 0.18,
+            "disagree": 0.01,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.31
+          }
+        },
+        "founder": {
+          "applause": 0.0115,
+          "top": "eyeroll",
+          "confidence": 0.85,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0.01,
+            "disagree": 0.09,
+            "ignore": 0.02,
+            "sleep": 0,
+            "eyeroll": 0.88
+          }
+        },
+        "investor": {
+          "applause": 0.008,
+          "top": "eyeroll",
+          "confidence": 0.9,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0,
+            "disagree": 0.04,
+            "ignore": 0.04,
+            "sleep": 0,
+            "eyeroll": 0.92
+          }
+        },
+        "hr_manager": {
+          "applause": 0.5775,
+          "top": "comment",
+          "confidence": 0.27,
+          "distribution": {
+            "applaud": 0.23,
+            "share": 0.04,
+            "like": 0.05,
+            "comment": 0.37,
+            "disagree": 0.02,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.29
+          }
+        },
+        "product_manager": {
+          "applause": 0.43700000000000006,
+          "top": "comment",
+          "confidence": 0.46,
+          "distribution": {
+            "applaud": 0.02,
+            "share": 0,
+            "like": 0.02,
+            "comment": 0.54,
+            "disagree": 0.03,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.39
+          }
+        },
+        "designer": {
+          "applause": 0.052,
+          "top": "eyeroll",
+          "confidence": 0.89,
+          "distribution": {
+            "applaud": 0.01,
+            "share": 0,
+            "like": 0.02,
+            "comment": 0.04,
+            "disagree": 0.03,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.9
+          }
+        },
+        "client": {
+          "applause": 0.0695,
+          "top": "eyeroll",
+          "confidence": 0.75,
+          "distribution": {
+            "applaud": 0.03,
+            "share": 0,
+            "like": 0.05,
+            "comment": 0.01,
+            "disagree": 0.11,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.79
+          }
+        },
+        "uncle": {
+          "applause": 0.7424999999999999,
+          "top": "comment",
+          "confidence": 0.39,
+          "distribution": {
+            "applaud": 0.12,
+            "share": 0.27,
+            "like": 0,
+            "comment": 0.47,
+            "disagree": 0.02,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.12
+          }
+        },
+        "mom": {
+          "applause": 0.7935,
+          "top": "applaud",
+          "confidence": 0.52,
+          "distribution": {
+            "applaud": 0.58,
+            "share": 0.15,
+            "like": 0.04,
+            "comment": 0.05,
+            "disagree": 0.03,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.14
+          }
+        },
+        "coach": {
+          "applause": 0.741,
+          "top": "share",
+          "confidence": 0.19,
+          "distribution": {
+            "applaud": 0.21,
+            "share": 0.3,
+            "like": 0.01,
+            "comment": 0.3,
+            "disagree": 0.01,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.17
+          }
+        }
+      },
+      "metrics": {
+        "clarity": 0.955,
+        "cliche": 0.615,
+        "authenticity": 0.375,
+        "soundsLikeAi": 0.44,
+        "callToAction": 0.45
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Pouco autêntico",
+        "cliche": "Bem clichê",
+        "soundsLikeAi": "Não",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.5633333333333334,
+      "latencyMs": 318
+    },
+    {
+      "id": "desabafo-burnout",
+      "applause": 60,
+      "personas": {
+        "recruiter": {
+          "applause": 0.46499999999999997,
+          "top": "applaud",
+          "confidence": 0.16,
+          "distribution": {
+            "applaud": 0.26,
+            "share": 0.01,
+            "like": 0.15,
+            "comment": 0.07,
+            "disagree": 0.02,
+            "ignore": 0.26,
+            "sleep": 0.01,
+            "eyeroll": 0.22
+          }
+        },
+        "senior_dev": {
+          "applause": 0.20555555555555557,
+          "top": "eyeroll",
+          "confidence": 0.61,
+          "distribution": {
+            "applaud": 0.05050505050505051,
+            "share": 0,
+            "like": 0.07070707070707072,
+            "comment": 0.13131313131313133,
+            "disagree": 0.010101010101010102,
+            "ignore": 0.07070707070707072,
+            "sleep": 0,
+            "eyeroll": 0.6666666666666667
+          }
+        },
+        "junior_dev": {
+          "applause": 0.8525,
+          "top": "applaud",
+          "confidence": 0.4,
+          "distribution": {
+            "applaud": 0.49,
+            "share": 0.05,
+            "like": 0.08,
+            "comment": 0.35,
+            "disagree": 0,
+            "ignore": 0.01,
+            "sleep": 0,
+            "eyeroll": 0.02
+          }
+        },
+        "founder": {
+          "applause": 0.418,
+          "top": "eyeroll",
+          "confidence": 0.33,
+          "distribution": {
+            "applaud": 0.15,
+            "share": 0.03,
+            "like": 0.07,
+            "comment": 0.25,
+            "disagree": 0.04,
+            "ignore": 0.04,
+            "sleep": 0.01,
+            "eyeroll": 0.41
+          }
+        },
+        "investor": {
+          "applause": 0.10550000000000001,
+          "top": "eyeroll",
+          "confidence": 0.52,
+          "distribution": {
+            "applaud": 0.01,
+            "share": 0,
+            "like": 0.02,
+            "comment": 0.02,
+            "disagree": 0.02,
+            "ignore": 0.34,
+            "sleep": 0.01,
+            "eyeroll": 0.58
+          }
+        },
+        "hr_manager": {
+          "applause": 0.9035,
+          "top": "applaud",
+          "confidence": 0.35,
+          "distribution": {
+            "applaud": 0.43,
+            "share": 0.19,
+            "like": 0.01,
+            "comment": 0.37,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0
+          }
+        },
+        "product_manager": {
+          "applause": 0.793,
+          "top": "comment",
+          "confidence": 0.56,
+          "distribution": {
+            "applaud": 0.28,
+            "share": 0.02,
+            "like": 0.04,
+            "comment": 0.62,
+            "disagree": 0,
+            "ignore": 0.02,
+            "sleep": 0,
+            "eyeroll": 0.02
+          }
+        },
+        "designer": {
+          "applause": 0.899,
+          "top": "applaud",
+          "confidence": 0.46,
+          "distribution": {
+            "applaud": 0.53,
+            "share": 0.15,
+            "like": 0.04,
+            "comment": 0.26,
+            "disagree": 0,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.02
+          }
+        },
+        "client": {
+          "applause": 0.7679999999999998,
+          "top": "applaud",
+          "confidence": 0.44,
+          "distribution": {
+            "applaud": 0.5099999999999999,
+            "share": 0.029999999999999992,
+            "like": 0.11999999999999997,
+            "comment": 0.19999999999999996,
+            "disagree": 0.019999999999999997,
+            "ignore": 0.029999999999999992,
+            "sleep": 0,
+            "eyeroll": 0.08999999999999998
+          }
+        },
+        "uncle": {
+          "applause": 0.79,
+          "top": "comment",
+          "confidence": 0.59,
+          "distribution": {
+            "applaud": 0.07,
+            "share": 0.24,
+            "like": 0,
+            "comment": 0.64,
+            "disagree": 0.01,
+            "ignore": 0,
+            "sleep": 0,
+            "eyeroll": 0.04
+          }
+        },
+        "mom": {
+          "applause": 0.7940000000000002,
+          "top": "applaud",
+          "confidence": 0.54,
+          "distribution": {
+            "applaud": 0.5900000000000001,
+            "share": 0.11000000000000001,
+            "like": 0.05000000000000001,
+            "comment": 0.08000000000000002,
+            "disagree": 0.07000000000000002,
+            "ignore": 0.020000000000000004,
+            "sleep": 0,
+            "eyeroll": 0.08000000000000002
+          }
+        },
+        "coach": {
+          "applause": 0.81,
+          "top": "comment",
+          "confidence": 0.26,
+          "distribution": {
+            "applaud": 0.34,
+            "share": 0.19,
+            "like": 0.01,
+            "comment": 0.36,
+            "disagree": 0.01,
+            "ignore": 0.02,
+            "sleep": 0,
+            "eyeroll": 0.07
+          }
+        }
+      },
+      "metrics": {
+        "clarity": 0.94,
+        "cliche": 0.1925,
+        "authenticity": 0.8875,
+        "soundsLikeAi": 0.25,
+        "callToAction": 0.02
+      },
+      "headlines": {
+        "clarity": "Muito claro",
+        "authenticity": "Muito autêntico",
+        "cliche": "Pouco clichê",
+        "soundsLikeAi": "Não",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.6966666666666667,
+      "latencyMs": 244
+    },
+    {
+      "id": "texto-confuso",
+      "applause": 12,
+      "personas": {
+        "recruiter": {
+          "applause": 0.134,
+          "top": "ignore",
+          "confidence": 0.6,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0,
+            "disagree": 0,
+            "ignore": 0.66,
+            "sleep": 0.04,
+            "eyeroll": 0.3
+          }
+        },
+        "senior_dev": {
+          "applause": 0.05450000000000001,
+          "top": "eyeroll",
+          "confidence": 0.68,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0.02,
+            "disagree": 0.04,
+            "ignore": 0.19,
+            "sleep": 0.03,
+            "eyeroll": 0.72
+          }
+        },
+        "junior_dev": {
+          "applause": 0.17099999999999999,
+          "top": "eyeroll",
+          "confidence": 0.37,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0.02,
+            "comment": 0.11,
+            "disagree": 0,
+            "ignore": 0.37,
+            "sleep": 0.05,
+            "eyeroll": 0.45
+          }
+        },
+        "founder": {
+          "applause": 0.05750000000000001,
+          "top": "eyeroll",
+          "confidence": 0.58,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0.01,
+            "disagree": 0.04,
+            "ignore": 0.23,
+            "sleep": 0.08,
+            "eyeroll": 0.64
+          }
+        },
+        "investor": {
+          "applause": 0.065,
+          "top": "eyeroll",
+          "confidence": 0.61,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0.01,
+            "disagree": 0.02,
+            "ignore": 0.28,
+            "sleep": 0.03,
+            "eyeroll": 0.66
+          }
+        },
+        "hr_manager": {
+          "applause": 0.1575,
+          "top": "ignore",
+          "confidence": 0.45,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0.01,
+            "comment": 0.06,
+            "disagree": 0.01,
+            "ignore": 0.52,
+            "sleep": 0.05,
+            "eyeroll": 0.35
+          }
+        },
+        "product_manager": {
+          "applause": 0.31100000000000005,
+          "top": "eyeroll",
+          "confidence": 0.36,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0.38,
+            "disagree": 0.01,
+            "ignore": 0.12,
+            "sleep": 0.04,
+            "eyeroll": 0.45
+          }
+        },
+        "designer": {
+          "applause": 0.04191919191919192,
+          "top": "eyeroll",
+          "confidence": 0.79,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0.0404040404040404,
+            "disagree": 0.0606060606060606,
+            "ignore": 0.050505050505050504,
+            "sleep": 0.0303030303030303,
+            "eyeroll": 0.8181818181818181
+          }
+        },
+        "client": {
+          "applause": 0.0565,
+          "top": "eyeroll",
+          "confidence": 0.64,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0.01,
+            "disagree": 0.04,
+            "ignore": 0.24,
+            "sleep": 0.02,
+            "eyeroll": 0.69
+          }
+        },
+        "uncle": {
+          "applause": 0.45549999999999996,
+          "top": "comment",
+          "confidence": 0.53,
+          "distribution": {
+            "applaud": 0.01,
+            "share": 0,
+            "like": 0,
+            "comment": 0.58,
+            "disagree": 0.07,
+            "ignore": 0.05,
+            "sleep": 0.01,
+            "eyeroll": 0.28
+          }
+        },
+        "mom": {
+          "applause": 0.552,
+          "top": "applaud",
+          "confidence": 0.18,
+          "distribution": {
+            "applaud": 0.28,
+            "share": 0.01,
+            "like": 0.27,
+            "comment": 0.11,
+            "disagree": 0.01,
+            "ignore": 0.08,
+            "sleep": 0.03,
+            "eyeroll": 0.21
+          }
+        },
+        "coach": {
+          "applause": 0.12200000000000001,
+          "top": "eyeroll",
+          "confidence": 0.54,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0,
+            "comment": 0.11,
+            "disagree": 0.07,
+            "ignore": 0.19,
+            "sleep": 0.03,
+            "eyeroll": 0.6
+          }
+        }
+      },
+      "metrics": {
+        "clarity": 0.135,
+        "cliche": 0.0475,
+        "authenticity": 0.77,
+        "soundsLikeAi": 0.17,
+        "callToAction": 0.03
+      },
+      "headlines": {
+        "clarity": "Confuso",
+        "authenticity": "Autêntico",
+        "cliche": "Original",
+        "soundsLikeAi": "Não",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.68,
+      "latencyMs": 299
+    },
+    {
+      "id": "artigo-sem-opiniao",
+      "applause": 41,
+      "personas": {
+        "recruiter": {
+          "applause": 0.38549999999999995,
+          "top": "ignore",
+          "confidence": 0.44,
+          "distribution": {
+            "applaud": 0.01,
+            "share": 0,
+            "like": 0.39,
+            "comment": 0.05,
+            "disagree": 0,
+            "ignore": 0.52,
+            "sleep": 0,
+            "eyeroll": 0.03
+          }
+        },
+        "senior_dev": {
+          "applause": 0.42949999999999994,
+          "top": "comment",
+          "confidence": 0.19,
+          "distribution": {
+            "applaud": 0,
+            "share": 0.05,
+            "like": 0.2,
+            "comment": 0.29,
+            "disagree": 0.01,
+            "ignore": 0.21,
+            "sleep": 0,
+            "eyeroll": 0.24
+          }
+        },
+        "junior_dev": {
+          "applause": 0.7115,
+          "top": "comment",
+          "confidence": 0.36,
+          "distribution": {
+            "applaud": 0.05,
+            "share": 0.09,
+            "like": 0.38,
+            "comment": 0.45,
+            "disagree": 0,
+            "ignore": 0.03,
+            "sleep": 0,
+            "eyeroll": 0
+          }
+        },
+        "founder": {
+          "applause": 0.3125,
+          "top": "ignore",
+          "confidence": 0.63,
+          "distribution": {
+            "applaud": 0,
+            "share": 0.04,
+            "like": 0.13,
+            "comment": 0.08,
+            "disagree": 0,
+            "ignore": 0.67,
+            "sleep": 0.01,
+            "eyeroll": 0.07
+          }
+        },
+        "investor": {
+          "applause": 0.20950000000000002,
+          "top": "ignore",
+          "confidence": 0.9,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0.03,
+            "comment": 0.01,
+            "disagree": 0,
+            "ignore": 0.92,
+            "sleep": 0,
+            "eyeroll": 0.04
+          }
+        },
+        "hr_manager": {
+          "applause": 0.2025,
+          "top": "ignore",
+          "confidence": 0.97,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0.01,
+            "comment": 0,
+            "disagree": 0,
+            "ignore": 0.98,
+            "sleep": 0.01,
+            "eyeroll": 0
+          }
+        },
+        "product_manager": {
+          "applause": 0.7165,
+          "top": "comment",
+          "confidence": 0.57,
+          "distribution": {
+            "applaud": 0.01,
+            "share": 0.1,
+            "like": 0.21,
+            "comment": 0.63,
+            "disagree": 0,
+            "ignore": 0.04,
+            "sleep": 0,
+            "eyeroll": 0.01
+          }
+        },
+        "designer": {
+          "applause": 0.31,
+          "top": "eyeroll",
+          "confidence": 0.23,
+          "distribution": {
+            "applaud": 0,
+            "share": 0,
+            "like": 0.23,
+            "comment": 0.16,
+            "disagree": 0.01,
+            "ignore": 0.26,
+            "sleep": 0,
+            "eyeroll": 0.34
+          }
+        },
+        "client": {
+          "applause": 0.42450000000000004,
+          "top": "like",
+          "confidence": 0.36,
+          "distribution": {
+            "applaud": 0.01,
+            "share": 0.01,
+            "like": 0.44,
+            "comment": 0.07,
+            "disagree": 0,
+            "ignore": 0.44,
+            "sleep": 0,
+            "eyeroll": 0.03
+          }
+        },
+        "uncle": {
+          "applause": 0.6204999999999999,
+          "top": "comment",
+          "confidence": 0.54,
+          "distribution": {
+            "applaud": 0.02,
+            "share": 0.1,
+            "like": 0.02,
+            "comment": 0.6,
+            "disagree": 0.01,
+            "ignore": 0.19,
+            "sleep": 0.01,
+            "eyeroll": 0.05
+          }
+        },
+        "mom": {
+          "applause": 0.8235,
+          "top": "applaud",
+          "confidence": 0.51,
+          "distribution": {
+            "applaud": 0.58,
+            "share": 0.04,
+            "like": 0.21,
+            "comment": 0.09,
+            "disagree": 0,
+            "ignore": 0.05,
+            "sleep": 0,
+            "eyeroll": 0.03
+          }
+        },
+        "coach": {
+          "applause": 0.37750000000000006,
+          "top": "ignore",
+          "confidence": 0.51,
+          "distribution": {
+            "applaud": 0.05000000000000001,
+            "share": 0.04000000000000001,
+            "like": 0.08000000000000002,
+            "comment": 0.17000000000000004,
+            "disagree": 0.010000000000000002,
+            "ignore": 0.56,
+            "sleep": 0,
+            "eyeroll": 0.09000000000000001
+          }
+        }
+      },
+      "metrics": {
+        "clarity": 0.7725,
+        "cliche": 0.1875,
+        "authenticity": 0.48,
+        "soundsLikeAi": 0.28,
+        "callToAction": 0.04
+      },
+      "headlines": {
+        "clarity": "Claro",
+        "authenticity": "Neutro",
+        "cliche": "Original",
+        "soundsLikeAi": "Não",
+        "callToAction": "Não"
+      },
+      "scoreConfidence": 0.6066666666666668,
+      "latencyMs": 267
+    }
+  ]
+}

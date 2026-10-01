@@ -1,0 +1,52 @@
+.persona-blurb,
+.persona-top,
+.persona-confidence {
+  flex-basis: 100%;
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+.persona-top,
+.persona-confidence {
+  font-variant-numeric: tabular-nums;
+}
+
+.persona-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.15rem 0.55rem 0.15rem 0.45rem;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--warm) 14%, transparent);
+  color: var(--warm);
+  font-size: 0.72rem;
+  font-weight: 600;
+}
+
+.persona-badge svg {
+  width: 0.8rem;
+  height: 0.8rem;
+}
+
+.persona-badge.is-critic {
+  background: color-mix(in srgb, var(--error) 12%, transparent);
+  color: var(--error);
+}
+
+.persona-score {
+  grid-area: score;
+  display: grid;
+  justify-items: end;
+  line-height: 1;
+}
+
+.persona-score strong {
+  font: 500 1.6rem var(--serif);
+  font-variant-numeric: tabular-nums;
+}
+
+.persona-score span {
+  margin-top: 0.25rem;
+  color: var(--muted);
+  font-size: 0.75rem;
+}

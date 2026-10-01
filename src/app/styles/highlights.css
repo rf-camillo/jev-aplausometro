@@ -1,0 +1,46 @@
+.highlight-chips {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.75rem;
+}
+
+.highlight-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.55rem 1.1rem 0.55rem 0.6rem;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: color-mix(in srgb, var(--card) 70%, transparent);
+  color: var(--muted);
+  font-size: 1rem;
+  cursor: pointer;
+  transition: border-color 160ms ease;
+}
+
+.highlight-chip:hover,
+.highlight-chip[aria-pressed="true"] {
+  border-color: var(--warm);
+}
+
+.highlight-chip strong {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.highlight-chip .avatar {
+  width: 2.6rem;
+  height: 2.6rem;
+}
+
+@media (max-width: 599px) {
+  .highlight-chips {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .highlight-chip {
+    width: 100%;
+  }
+}

@@ -1,0 +1,128 @@
+.persona-list {
+  display: grid;
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0;
+  list-style: none;
+}
+
+/* The whole row picks the persona: the name's button stretches over it. */
+.persona-row {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1.75rem 4.25rem minmax(0, 1fr) auto;
+  grid-template-areas:
+    "rank avatar who score"
+    ". bar bar bar";
+  align-items: center;
+  gap: 0.5rem 0.85rem;
+  padding: 0.9rem 0.75rem;
+  border-bottom: 1px solid var(--line);
+  border-radius: 10px;
+  transition: background-color 160ms ease;
+}
+
+.persona-row:hover,
+.persona-row:focus-within,
+.persona-row.is-pinned {
+  background: color-mix(in srgb, var(--card) 70%, transparent);
+}
+
+.persona-row .avatar {
+  grid-area: avatar;
+}
+
+.persona-rank {
+  grid-area: rank;
+  color: var(--muted);
+  font: 500 1rem var(--serif);
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+}
+
+.persona-who {
+  grid-area: who;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.1rem 0.5rem;
+  min-width: 0;
+}
+
+.persona-name {
+  padding: 0;
+  border: 0;
+  background: none;
+  font-weight: 600;
+  text-align: left;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.persona-name::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 10px;
+}
+
+.persona-name:focus-visible {
+  outline: none;
+}
+
+.persona-name:focus-visible::after {
+  outline: 2px solid var(--warm);
+  outline-offset: 2px;
+}
+
+.persona-row.is-pinned .persona-name {
+  text-decoration: underline;
+  text-decoration-color: var(--warm);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+}
+
+/* On a phone, the place moves into the avatar's badge and the row keeps name, score and bar. */
+@media (max-width: 599px) {
+  .persona-row {
+    grid-template-columns: 4.25rem minmax(0, 1fr) auto;
+    grid-template-areas:
+      "avatar who score"
+      "bar bar bar";
+  }
+
+  .persona-rank {
+    display: none;
+  }
+}
+
+@media (min-width: 860px) {
+  .persona-row {
+    grid-template-columns: 2rem 4.25rem minmax(14rem, 20rem) minmax(0, 1fr) 4.5rem;
+    grid-template-areas: "rank avatar who bar score";
+    gap: 1.25rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .persona-row {
+    transition: none;
+  }
+}
+
+.persona-row .stacked-bar {
+  grid-area: bar;
+}
+
+/* Above the row's stretched button only with a mouse, so a tap on the bar still pins the row. */
+@media (hover: hover) {
+  .persona-row .stacked-bar {
+    z-index: 1;
+  }
+}
+
+.persona-aside-title {
+  margin-top: 1.5rem;
+  text-align: center;
+}

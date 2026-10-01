@@ -1,0 +1,26 @@
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.35rem 1rem;
+  margin: 0.5rem 0 0.75rem;
+  padding: 0;
+  list-style: none;
+  color: var(--muted);
+}
+
+.bar-legend {
+  font-size: 0.85rem;
+}
+
+.bar-legend li {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.bar-swatch {
+  width: 0.75rem;
+  height: 0.75rem;
+  border-radius: 3px;
+}

@@ -1,0 +1,89 @@
+.metric-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(12rem, 100%), 1fr));
+  gap: 1rem;
+  width: 100%;
+  max-width: 1100px;
+  margin: 1rem auto 0;
+  padding: 0;
+  list-style: none;
+}
+
+/* Each card shares the list's rows, so labels, numbers and bars line up across the cards. */
+.metric-card {
+  display: grid;
+  grid-row: span 5;
+  grid-template-rows: subgrid;
+  row-gap: 0.45rem;
+  padding: 1.1rem 1.1rem 1.2rem;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: transparent;
+}
+
+.metric-head {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-bottom: 0.2rem;
+  line-height: 1.25;
+  color: var(--muted);
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.metric-icon {
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--tone) 16%, transparent);
+  color: color-mix(in srgb, var(--tone) 78%, var(--ink));
+}
+
+.metric-icon svg {
+  width: 1.05rem;
+  height: 1.05rem;
+}
+
+.metric-headline {
+  align-self: end;
+  font: 500 1.75rem/1.1 var(--serif);
+  text-wrap: balance;
+}
+
+.metric-chance {
+  margin-left: 0.5rem;
+  color: var(--muted);
+  font: 500 1rem var(--sans);
+  font-variant-numeric: tabular-nums;
+}
+
+.metric-note {
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+
+.metric-hint {
+  color: var(--muted);
+  font-size: 0.82rem;
+  line-height: 1.4;
+}
+
+/* Five cards in a row: a smaller headline, so a level and its chance keep to one line. */
+@media (min-width: 1100px) {
+  .metric-cards {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .metric-headline {
+    font-size: 1.4rem;
+  }
+
+  .metric-chance {
+    margin-left: 0.35rem;
+    font-size: 0.9rem;
+  }
+}

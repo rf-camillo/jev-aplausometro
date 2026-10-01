@@ -1,0 +1,126 @@
+.composer {
+  display: grid;
+  gap: 1rem;
+  width: 100%;
+  margin-top: 0.25rem;
+  text-align: left;
+}
+
+/*
+ * One line to start, growing with the text. A hairline always marks where to write; on focus,
+ * an accent line opens from the center over it.
+ */
+.composer-input {
+  display: block;
+  width: 100%;
+  min-height: calc(1.05rem * 1.65 + 0.8rem);
+  max-height: 60vh;
+  padding: 0.2rem 0 0.6rem;
+  border: 0;
+  border-bottom: 1px solid color-mix(in srgb, var(--ink) 28%, transparent);
+  background: linear-gradient(var(--warm), var(--warm)) center bottom / 0% 2px no-repeat;
+  color: var(--ink);
+  caret-color: var(--warm);
+  font: 400 1.05rem/1.65 var(--sans);
+  letter-spacing: -0.005em;
+  overflow-y: hidden;
+  resize: none;
+  outline: none;
+  transition: background-size 260ms cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+
+/*
+ * A thin, quiet scrollbar for long posts, in the page's colors, warming up under the pointer.
+ * Chrome and Safari take the webkit rules; Firefox, which has no such rules, the standard ones.
+ */
+.composer-input::-webkit-scrollbar {
+  width: 6px;
+}
+
+.composer-input::-webkit-scrollbar-button {
+  display: none;
+}
+
+.composer-input::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.composer-input::-webkit-scrollbar-thumb {
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--ink) 22%, transparent);
+}
+
+.composer-input:hover::-webkit-scrollbar-thumb {
+  background: color-mix(in srgb, var(--warm) 65%, transparent);
+}
+
+@supports not selector(::-webkit-scrollbar) {
+  .composer-input {
+    scrollbar-width: thin;
+    scrollbar-color: color-mix(in srgb, var(--ink) 22%, transparent) transparent;
+  }
+
+  .composer-input:hover {
+    scrollbar-color: color-mix(in srgb, var(--warm) 65%, transparent) transparent;
+  }
+}
+
+.composer-input:focus {
+  background-size: 100% 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .composer-input {
+    transition: none;
+  }
+}
+
+.composer-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem 1rem;
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+
+.composer-examples {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.composer-progress {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  margin-left: auto;
+}
+
+.composer-count {
+  font-variant-numeric: tabular-nums;
+}
+
+@media (max-width: 599px) {
+  .composer-examples {
+    flex-wrap: nowrap;
+    width: 100%;
+  }
+
+  .composer-progress {
+    justify-content: center;
+    width: 100%;
+    margin-left: 0;
+    padding-top: 0.35rem;
+  }
+
+  .composer-examples .button-chip {
+    flex: 1 1 auto;
+    justify-content: center;
+    padding: 0.45rem 0.5rem;
+    font-size: 0.75rem;
+    white-space: nowrap;
+  }
+}

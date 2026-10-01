@@ -1,0 +1,75 @@
+/* The stage and the panels may use up to 1320px; everything else keeps an 880px reading column. */
+.app {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: clamp(2rem, 5vw, 3rem);
+  max-width: 1320px;
+  margin: 0 auto;
+  padding: clamp(4.5rem, 10vw, 6rem) 16px 3rem;
+}
+
+.app > :not(.stage, .panel) {
+  justify-self: center;
+  width: 100%;
+  max-width: 880px;
+}
+
+.app-header {
+  display: grid;
+  gap: 0.6rem;
+  justify-items: center;
+  margin-bottom: -1.25rem;
+  text-align: center;
+}
+
+.app-header h1 {
+  font: 500 clamp(2.6rem, 8vw, 4rem) / 1 var(--serif);
+  letter-spacing: -0.02em;
+}
+
+.app-tagline {
+  color: var(--muted);
+  font-size: clamp(0.95rem, 3.6vw, 1.05rem);
+  text-wrap: balance;
+}
+
+.fine-print {
+  max-width: 40rem;
+  margin: -1rem auto 0;
+  color: var(--muted);
+  font-size: 0.78rem;
+  text-align: center;
+}
+
+.stage,
+.panel {
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: linear-gradient(var(--stage-top), var(--paper) 70%);
+}
+
+.panel {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 0.5rem;
+  padding: 1.75rem clamp(1rem, 3vw, 2.5rem) 2.25rem;
+}
+
+.panel-title {
+  color: var(--ink);
+  font-size: 0.95rem;
+  letter-spacing: 0.18em;
+  text-align: center;
+}
+
+.panel-hint {
+  color: var(--muted);
+  font-size: 0.88rem;
+  text-align: center;
+}
+
+@media (min-width: 860px) {
+  .panel {
+    padding-block: 2.25rem 2.75rem;
+  }
+}

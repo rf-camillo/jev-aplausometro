@@ -1,0 +1,50 @@
+.stage {
+  display: grid;
+  justify-items: center;
+  gap: 0.75rem;
+  padding: 1.5rem 12px 1.25rem;
+}
+
+.stage-notice {
+  padding: 0.3rem 0.8rem;
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--warm) 12%, transparent);
+  color: var(--warm);
+  font-size: 0.82rem;
+  font-weight: 600;
+  text-align: center;
+  text-wrap: balance;
+}
+
+.audience-frame {
+  position: relative;
+  width: 100%;
+  margin-bottom: 0.75rem;
+}
+
+.audience-canvas {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  min-height: 220px;
+}
+
+.audience-canvas.is-pointing {
+  cursor: pointer;
+}
+
+.reaction-legend {
+  font-size: 0.9rem;
+}
+
+@media (max-width: 599px) {
+  .stage {
+    padding-inline: 4px;
+  }
+}
+
+@media (min-width: 600px) {
+  .audience-canvas {
+    aspect-ratio: 2.1 / 1;
+  }
+}

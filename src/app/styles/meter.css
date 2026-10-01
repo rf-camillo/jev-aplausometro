@@ -1,0 +1,55 @@
+.applause-meter {
+  display: grid;
+  justify-items: center;
+  width: 100%;
+  margin: 0;
+  color: var(--ink);
+}
+
+.applause-meter svg {
+  width: min(240px, 70%);
+  height: auto;
+}
+
+.applause-needle {
+  transform-box: view-box;
+  transition: transform 1.2s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.applause-needle.is-loading {
+  animation: needle-wobble 0.9s ease-in-out infinite alternate;
+}
+
+@keyframes needle-wobble {
+  from {
+    rotate: -6deg;
+  }
+  to {
+    rotate: 6deg;
+  }
+}
+
+.applause-value {
+  fill: var(--muted);
+  font: 400 34px var(--serif);
+}
+
+.applause-scale {
+  font: 400 14px var(--sans);
+}
+
+.applause-meter figcaption {
+  color: var(--muted);
+  font: 400 1.25rem/1.25 var(--serif);
+  text-align: center;
+  text-wrap: balance;
+  margin-top: 0.35rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .applause-needle,
+  .applause-needle.is-loading {
+    transition: none;
+    animation: none;
+  }
+}

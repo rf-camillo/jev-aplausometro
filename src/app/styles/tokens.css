@@ -1,0 +1,88 @@
+/*
+ * The theme comes from `data-theme` on <html>, set before the first paint, or from the system
+ * when there is none.
+ * The canvas reads the --stage-* tokens, so the audience changes with the page.
+ */
+
+@font-face {
+  font-family: "Newsreader";
+  src: url("/fonts/newsreader-latin.woff2") format("woff2");
+  font-weight: 300 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/inter-latin.woff2") format("woff2");
+  font-weight: 400 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  color-scheme: light;
+  --paper: #f5f1e8;
+  --ink: #1c1a17;
+  --muted: #6a6358;
+  --line: rgb(28 26 23 / 12%);
+  --card: #fffdf8;
+  --card-shadow: 0 18px 40px -18px rgb(28 26 23 / 35%);
+  --error: #b8372c;
+  --accent: #1c1a17;
+  --accent-ink: #f5f1e8;
+  --warm: #9c4a13;
+  --stage-top: #efe6d4;
+  --stage-seat: #e2d6bf;
+  --stage-idle: #b3a78f;
+  --stage-glow: rgb(196 98 28 / 14%);
+  --stage-snore: #2c67cf;
+  --serif: "Newsreader", Georgia, "Times New Roman", serif;
+  --sans: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --radius: 14px;
+}
+
+/*
+ * The dark tokens appear twice, once for a reader who chose dark and once for the system's
+ * dark: CSS cannot share one block between an attribute and a media query, and `light-dark()`
+ * would leave the tokens unreadable to the canvas, which reads them as plain colors.
+ */
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --paper: #151410;
+  --ink: #ece6da;
+  --muted: #a29a8c;
+  --line: rgb(236 230 218 / 14%);
+  --card: #211f1a;
+  --card-shadow: 0 18px 40px -18px rgb(0 0 0 / 70%);
+  --error: #ff7b6e;
+  --accent: #ece6da;
+  --accent-ink: #151410;
+  --warm: #f0934f;
+  --stage-top: #2a1618;
+  --stage-seat: #3d1d21;
+  --stage-idle: #6d665a;
+  --stage-glow: rgb(240 147 79 / 18%);
+  --stage-snore: #c9d4ff;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --paper: #151410;
+    --ink: #ece6da;
+    --muted: #a29a8c;
+    --line: rgb(236 230 218 / 14%);
+    --card: #211f1a;
+    --card-shadow: 0 18px 40px -18px rgb(0 0 0 / 70%);
+    --error: #ff7b6e;
+    --accent: #ece6da;
+    --accent-ink: #151410;
+    --warm: #f0934f;
+    --stage-top: #2a1618;
+    --stage-seat: #3d1d21;
+    --stage-idle: #6d665a;
+    --stage-glow: rgb(240 147 79 / 18%);
+    --stage-snore: #c9d4ff;
+  }
+}

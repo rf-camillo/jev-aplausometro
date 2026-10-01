@@ -1,0 +1,30 @@
+.error-notice {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.25rem 0.75rem;
+  color: var(--ink);
+}
+
+.error-retry {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--warm);
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.error-retry:hover {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.error-retry svg {
+  width: 0.95em;
+  height: 0.95em;
+  align-self: center;
+}

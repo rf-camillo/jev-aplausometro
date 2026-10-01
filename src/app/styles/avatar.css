@@ -1,0 +1,88 @@
+.avatar {
+  position: relative;
+  display: inline-block;
+  flex: none;
+}
+
+.avatar.is-large {
+  width: 6.5rem;
+  height: 6.5rem;
+}
+
+.avatar.is-medium {
+  width: 4.25rem;
+  height: 4.25rem;
+}
+
+.avatar.is-medium .avatar-badge {
+  width: 1.75rem;
+  height: 1.75rem;
+}
+
+.avatar.is-medium .avatar-badge svg {
+  width: 0.9rem;
+  height: 0.9rem;
+}
+
+.avatar.is-small {
+  width: 1.6rem;
+  height: 1.6rem;
+}
+
+.avatar-figure {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.avatar-badge {
+  position: absolute;
+  right: -0.3rem;
+  bottom: -0.15rem;
+  display: grid;
+  place-items: center;
+  width: 2.4rem;
+  height: 2.4rem;
+  border: 3px solid var(--paper);
+  border-radius: 50%;
+  background: color-mix(in srgb, var(--persona) 22%, var(--card));
+  color: color-mix(in srgb, var(--persona) 72%, var(--ink));
+}
+
+.avatar-badge svg {
+  width: 1.25rem;
+  height: 1.25rem;
+}
+
+.avatar-rank {
+  display: none;
+  font: 700 0.7rem/1 var(--sans);
+  font-variant-numeric: tabular-nums;
+}
+
+@media (max-width: 599px) {
+  .persona-row .avatar-badge svg {
+    display: none;
+  }
+
+  .persona-row .avatar-rank {
+    display: block;
+  }
+}
+
+@media (min-width: 860px) {
+  .avatar.is-large {
+    width: 8.5rem;
+    height: 8.5rem;
+  }
+
+  .avatar.is-large .avatar-badge {
+    width: 2.9rem;
+    height: 2.9rem;
+  }
+
+  .avatar.is-large .avatar-badge svg {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+}

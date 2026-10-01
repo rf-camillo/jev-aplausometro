@@ -1,0 +1,25 @@
+/*
+ * Every stylesheet of the page, from the tokens and the frame down to each piece. The avatar
+ * comes before the pieces that resize it, which win by coming later.
+ */
+
+@import "./tokens.css";
+@import "./base.css";
+@import "./tooltip.css";
+@import "./legend.css";
+@import "./layout.css";
+@import "./switch.css";
+@import "./footer.css";
+@import "./avatar.css";
+@import "./composer.css";
+@import "./error-notice.css";
+@import "./stage.css";
+@import "./meter.css";
+@import "./spotlight.css";
+@import "./highlights.css";
+@import "./cast.css";
+@import "./personas.css";
+@import "./persona-facts.css";
+@import "./stacked-bar.css";
+@import "./metrics.css";
+@import "./share.css";

@@ -1,0 +1,54 @@
+.stacked-bar {
+  position: relative;
+  display: flex;
+  align-items: center;
+  height: 6px;
+  border-radius: 999px;
+  background: var(--line);
+}
+
+.stacked-part {
+  position: relative;
+  display: block;
+  height: 100%;
+  transition: height 140ms ease;
+}
+
+.stacked-part:first-child {
+  border-radius: 999px 0 0 999px;
+}
+
+.stacked-part:last-child {
+  border-radius: 0 999px 999px 0;
+}
+
+.stacked-part:only-child {
+  border-radius: 999px;
+}
+
+.stacked-part:hover {
+  height: 12px;
+  border-radius: 3px;
+}
+
+.stacked-tip {
+  bottom: calc(100% + 10px);
+  left: 50%;
+  opacity: 0;
+  transform: translate(-50%, 4px);
+  transition:
+    opacity 140ms ease,
+    transform 140ms ease;
+}
+
+.stacked-part:hover .stacked-tip {
+  opacity: 1;
+  transform: translate(-50%, 0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .stacked-part,
+  .stacked-tip {
+    transition: none;
+  }
+}

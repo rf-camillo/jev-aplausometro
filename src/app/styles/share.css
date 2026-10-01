@@ -1,0 +1,90 @@
+.share-body {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 1.25rem 2rem;
+  align-items: center;
+  width: 100%;
+  max-width: 1000px;
+  margin: 1rem auto 0;
+}
+
+.share-preview {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  box-shadow: var(--card-shadow);
+}
+
+.share-side {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  justify-items: start;
+  gap: 0.75rem;
+}
+
+.share-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.25rem;
+}
+
+.share-side a {
+  text-decoration: none;
+}
+
+/* The link itself, so it is clear what "Copiar" copies. */
+.share-link {
+  justify-self: stretch;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  width: 100%;
+  padding: 0.35rem 0.35rem 0.35rem 0.85rem;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+}
+
+.share-link-label {
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+.share-link code {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  font: 0.85rem var(--sans);
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+@media (max-width: 599px) {
+  .share-actions {
+    flex-wrap: nowrap;
+    width: 100%;
+  }
+
+  .share-actions .button {
+    flex: 1 1 0;
+    justify-content: center;
+    min-width: 0;
+    padding: 0.55rem 0.5rem;
+    gap: 0.35rem;
+    font-size: 0.75rem;
+    white-space: nowrap;
+  }
+
+  .share-actions .button svg {
+    width: 0.9rem;
+    height: 0.9rem;
+  }
+}
+
+@media (min-width: 860px) {
+  .share-body {
+    grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr);
+  }
+}

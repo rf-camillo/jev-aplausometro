@@ -1,0 +1,58 @@
+.seat-tip {
+  transform: translate(calc(-50% + var(--tip-shift, 0px)), -100%);
+}
+
+.spotlight-card {
+  display: grid;
+  grid-template-columns: 4.25rem minmax(0, 1fr) auto;
+  grid-template-areas:
+    "avatar who score"
+    "bar bar bar"
+    "close close close";
+  align-items: center;
+  gap: 0.75rem 1rem;
+  width: min(100%, 44rem);
+  margin: 0.25rem 0 0.5rem;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: color-mix(in srgb, var(--card) 70%, transparent);
+  text-align: left;
+}
+
+.spotlight-card .avatar {
+  grid-area: avatar;
+}
+
+.spotlight-who {
+  grid-area: who;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.1rem 0.6rem;
+}
+
+.spotlight-rank {
+  color: var(--warm);
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.spotlight-close {
+  grid-area: close;
+  justify-self: center;
+}
+
+@media (min-width: 700px) {
+  .spotlight-card {
+    grid-template-columns: 4.25rem minmax(0, 1fr) 4rem;
+    grid-template-areas:
+      "avatar who score"
+      "avatar bar score"
+      "close close close";
+  }
+}
+
+.spotlight-card .stacked-bar {
+  grid-area: bar;
+}
